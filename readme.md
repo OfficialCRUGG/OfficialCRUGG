@@ -13,6 +13,7 @@ Welcome to my GitHub Profile! I am a 14 year old Developer living in Germany who
 ## Information
 
 </div>
+
 - 14 years old
 - Living in Hagen, Germany
 - Primairly uses JS & TS
@@ -24,11 +25,14 @@ Welcome to my GitHub Profile! I am a 14 year old Developer living in Germany who
 ## Projects
 
 </div>
+
 **Programming/Management**
+
 - [taiga Bot](https://taigabot.net/)
 - [TEEGA Logistics](https://teegavtc.com/)
 
 **Localization Work**
+
 - [Minecraft](https://www.minecraft.net/)
 - [Hypixel](https://hypixel.net/)
 - [Flashing Lights](https://store.steampowered.com/app/605740/)
@@ -44,6 +48,7 @@ Welcome to my GitHub Profile! I am a 14 year old Developer living in Germany who
 ## Skills
 
 </div>
+
 - NodeJS | 70%
 - MySQL | 90%
 - CSS/SASS | 80%
@@ -59,5 +64,6 @@ Welcome to my GitHub Profile! I am a 14 year old Developer living in Germany who
 ## Links
 
 </div>
+
 - [Twitter](https://twitter.com/CRU_GG)
 - [Discord](https://discord.com/users/228965621478588416)
