@@ -1,69 +1,26 @@
-<div align="center">
+### Welcome to my GitHub Profile
 
-# Dennis Paulus
-  
-Welcome to my GitHub Profile! I am a 14 year old Developer living in Germany who loves programming, video games and Anime!
+<a href="https://discord.com/users/228965621478588416">
+  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
+</a>
+<a href="dennis@taigabot.net">
+  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
+</a>
+<a href="https://twitter.com/CRU_GG">
+  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
+<a href="https://twitter.com/CRU_GG">
+  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
+<a href="https://medium.com/@crugg_">
+  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
+</a>
+<a href="https://dev.to/officialcrugg">
+  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dev-dot-to.svg" />
+</a>
 
-</div>
+I'm Dennis, a 14 year old Developer living in Germany who loves programming, video games and anime!
 
----
+#### Statistics
 
-<div align="center">
-
-## Information
-
-</div>
-
-- 14 years old
-- Living in Hagen, Germany
-- Primairly uses JS & TS
-
----
-
-<div align="center">
-
-## Projects
-
-</div>
-
-**Programming/Management**
-
-- [taiga Bot](https://taigabot.net/)
-- [TEEGA Logistics](https://teegavtc.com/)
-
-**Localization Work**
-
-- [Minecraft](https://www.minecraft.net/)
-- [Hypixel](https://hypixel.net/)
-- [Flashing Lights](https://store.steampowered.com/app/605740/)
-- [Kitsu](https://kitsu.io/)
-- [PreMiD](https://premid.app/)
-- [Trucky](https://truckyapp.com/)
-- [Discord Extreme List](https://discordextremelist.xyz/)
-
----
-
-<div align="center">
-
-## Skills
-
-</div>
-
-- NodeJS | 70%
-- MySQL | 90%
-- CSS/SASS | 80%
-- Redis | 70%
-- Vue/Nuxt | 60%
-- TypeScript | 40%
-- Laravel | 2%
-
----
-
-<div align="center">
-
-## Links
-
-</div>
-
-- [Twitter](https://twitter.com/CRU_GG)
-- [Discord](https://discord.com/users/228965621478588416)
+![Statistics](https://github-readme-stats.vercel.app/api?username=OfficialCRUGG&show_icons=true&hide_border=true)
