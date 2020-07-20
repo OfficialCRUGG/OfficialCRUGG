@@ -15,8 +15,7 @@
 <a href="https://dev.to/officialcrugg">
   <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dev-dot-to.svg" />
 </a>
-
-
+<br>
 I'm Dennis, a 14 year old Developer living in Germany who loves programming, video games and anime!
 
 #### Statistics
