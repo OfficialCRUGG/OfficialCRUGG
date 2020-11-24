@@ -1,9 +1,10 @@
 ### Hey! 👋
 
 #### Who I am
-I am 14 years old.
-I was born in Germany and currently live in the medium sized city Hagen.
-I go to a german "Gymnasium" (In the american school system, that would be High School).
+
+I am 14 years old.  
+I was born in Germany and currently live in the medium sized city Hagen.  
+I go to a german "Gymnasium" (In the american school system, that would be High School).  
 
 #### What I do
 
