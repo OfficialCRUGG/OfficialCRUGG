@@ -1,52 +1,39 @@
 <div align="center">
 
-### Welcome to my GitHub Profile
+### Hey! 👋
 
-#### Statistics
+#### Who I am
+I am 14 years old.
+I was born in Germany and currently live in the medium sized city Hagen.
+I go to a german "Gymnasium" (In the american school system, that would be High School).
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=OfficialCRUGG&show_icons=true&line_height=27&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialCRUGG" alt="OfficialCRUGG's github stats" />
+#### What I do
 
-<hr>
+I write code at [BlazingMedia](https://github.com/blazingmedia) and work on projects like [taiga Bot](https://github.com/taigabm) & [TEEGA Logistics](https://github.com/teegavtc) there.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code>
+I am Brand Ambassador and Support at [PartydoosMedia](https://www.partydoosmedia.com/) where I have worked with Brands such as [Truckspace Group](https://twitter.com/truckspacegroup)
 
-<code><img height="20" src="https://code.visualstudio.com/favicon.ico"></code>
-<code><img height="20" src="https://seeklogo.com/images/W/windows-10-icon-logo-5BC5C69712-seeklogo.com.png"></code>
-<code><img height="20" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fen%2Fthumb%2F9%2F98%2FMicrosoft_Edge_logo_%25282019%2529.svg%2F1200px-Microsoft_Edge_logo_%25282019%2529.svg.png&f=1&nofb=1"></code>
-<code><img height="20" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"></code>
-<code><img height="20" src="https://simpleicons.org/icons/github.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/discord/discord.png"></code>
-<code><img height="20" src="https://cdn.discordapp.com/emojis/735928635181105262.png?v=1"></code>
+I do Social Media Management at [taiga Bot](https://github.com/taigabm) & [TEEGA Logistics](https://github.com/teegavtc)
 
-<code><img height="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-germany_1f1e9-1f1ea.png"></code>
-<code><img height="30" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/259/flag-united-states_1f1fa-1f1f8.png"></code>
+I am Creative Assistance at [PDM Studios](https://www.partydoosmedia.com/games) where I have worked on [Project Elevi](https://www.partydoosmedia.com/elevi/)
 
-  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/master/svg/pronouns/hehim.svg" alt="he / him" style="vertical-align:top; margin:6px 4px">
+I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_Simulator/), [Hypixel](https://hypixel.net/), [Discord Templates](https://discordtemplates.com/), [Discord Extreme List](https://discordextremelist.xyz/), [Kitsu](https://kitsu.io/), [Minecraft](https://minecraft.net/), and [taiga Bot](https://taigabot.net) to the German language
 
-![](https://img.shields.io/endpoint?label=Status&url=https://dev.discordprofiles.me/api/badge/status/325605285731500033?simple=true&logo=discord&logoColor=white&color=43B581)
-![](https://img.shields.io/endpoint?label=Visual%20Studio%20Code&url=https://dev.discordprofiles.me/api/badge/vscode/325605285731500033)
+#### Some of the Projects I work(ed) on
 
-<hr>
+| Project                                                        | Type                                      | Technologies used                                          | URL                                                               |
+|----------------------------------------------------------------|-------------------------------------------|------------------------------------------------------------|-------------------------------------------------------------------|
+| taiga Bot                                                      | Backend Development                       | JavaScript, TypeScript, NodeJS, discord.js, express, Redis | [Can be tried out on official Discord, https://join.taigabot.net] |
+| taiga Bot Website                                              | Website Design & Development              | PHP, Laravel, Bootstrap, SCSS, Blade, JavaScript           | https://taigabot.net                                              |
+| TEEGA Logistics Website                                        | Website Design                            | WordPress, Elementor                                       | https://teegavtc.com                                              |
+| Truckspace Group "Coming soon to a community near you" Trailer | Brand Communication & Creative Assistance | N/A                                                        | https://youtu.be/osO5_Vgecb0                                      |
 
-<a href="https://discord.com/users/228965621478588416">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/discord.svg" />
-</a>
-<a href="dennis@taigabot.net">
-  <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
-</a>
-<a href="https://twitter.com/CRU_GG">
-  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
-</a>
-<a href="https://medium.com/@crugg_">
-  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/medium.svg" />
-</a>
-<a href="https://dev.to/officialcrugg">
-  <img align="left" alt="Patreon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dev-dot-to.svg" />
-</a>
-</div>
+#### Technologies & Software I use
+
+For Web Development, I mainly use <img height="16" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"> PHP together with <img height="16" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"> Laravel.  
+In addition to that, I am also familiar with <img height="16" src="https://raw.githubusercontent.com/github/explore/master/topics/vue/vue.png"> Vue and especially the <img height="16" src="https://raw.githubusercontent.com/github/explore/master/topics/nuxt/nuxt.png"> Nuxt Framework.
+I have also used <img height="16" src="https://raw.githubusercontent.com/github/explore/master/topics/sass/sass.png"> SASS & SCSS
+To write code I use <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Visual_Studio_Code_Insiders_1.36_icon.svg/170px-Visual_Studio_Code_Insiders_1.36_icon.svg.png"> Visual Studio Code (Insiders), and to access/manage Databases, I use <img height="16" src="https://blog.jetbrains.com/wp-content/uploads/2019/08/logo-6.png"> JetBrains DataGrip
+
+For Creative Work, I use <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"> Figma, <img height="16" src="https://upload.wikimedia.org/wikipedia/en/6/6d/Affinity_Designer_logo_new.png"> Affinity Designer, <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"> Adobe Premiere Pro, <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png"> Adobe After Effects, <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_(2020).svg/1051px-Adobe_Audition_CC_icon_(2020).svg.png"> Adobe Audition, <img height="16" src="https://photoshop.com/en/images/apps/dimension.png"> Adobe Dimension, and <img height="16" src="https://deepin.b-cdn.net/wp-content/uploads/2020/06/Logo-de-Blender.png"> Blender
+
