@@ -1,5 +1,3 @@
-<div align="center">
-
 ### Hey! 👋
 
 #### Who I am
