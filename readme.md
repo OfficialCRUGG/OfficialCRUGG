@@ -36,3 +36,8 @@ To write code I use <img height="16" src="https://upload.wikimedia.org/wikipedia
 
 For Creative Work, I use <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"> Figma, <img height="16" src="https://upload.wikimedia.org/wikipedia/en/6/6d/Affinity_Designer_logo_new.png"> Affinity Designer, <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png"> Adobe Premiere Pro, <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/1200px-Adobe_After_Effects_CC_icon.svg.png"> Adobe After Effects, <img height="16" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Adobe_Audition_CC_icon_(2020).svg/1051px-Adobe_Audition_CC_icon_(2020).svg.png"> Adobe Audition, <img height="16" src="https://photoshop.com/en/images/apps/dimension.png"> Adobe Dimension, and <img height="16" src="https://deepin.b-cdn.net/wp-content/uploads/2020/06/Logo-de-Blender.png"> Blender
 
+![Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=OfficialCRUGG&layout=compact&theme=dark&hide=star&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=OfficialCRUGG&layout=compact&theme=dark)
+<!--
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime/?username=OfficialCRUGG&layout=compact&theme=dark)
+-->
