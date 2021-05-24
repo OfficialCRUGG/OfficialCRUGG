@@ -8,11 +8,11 @@ I go to a german "Gymnasium" (In the american school system, that would be High 
 
 #### What I do
 
-I write code at [BlazingMedia](https://github.com/blazingmedia) and work on projects like [taiga Bot](https://github.com/taigabm) & [TEEGA Logistics](https://github.com/teegavtc) there.
+I write code at [BlazingMedia](https://github.com/blazingmedia) and work on projects like [taiga Bot](https://github.com/taigabm) there.
 
 I am Brand Ambassador and Support at [PartydoosMedia](https://www.partydoosmedia.com/) where I have worked with Brands such as [Truckspace Group](https://twitter.com/truckspacegroup)
 
-I do Social Media Management at [taiga Bot](https://github.com/taigabm) & [TEEGA Logistics](https://github.com/teegavtc)
+I do Social Media Management at [taiga Bot](https://github.com/taigabm)
 
 I am Creative Assistance at [PDM Studios](https://www.partydoosmedia.com/games) where I have worked on [Project Elevi](https://www.partydoosmedia.com/elevi/)
 
