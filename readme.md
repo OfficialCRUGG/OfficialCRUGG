@@ -1,5 +1,7 @@
 ### Hey! 👋
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/228965621478588416)](https://discord.com/users/228965621478588416)
+
 #### Who I am
 
 I am 15 years old.  
