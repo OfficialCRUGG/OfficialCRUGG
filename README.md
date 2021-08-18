@@ -18,6 +18,7 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 > Sorted by how quickly you can expect a reply
 - [Hit me up on Discord](https://discord.com/users/228965621478588416)
+- [Hit me up on Hiven](https://app.hiven.io/@crugg)
 - [Hit me up on Twitter](https://twitter.com/cruggdev)
 - [Hit me up on Telegram](https://t.me/dennispaulus)
 - [Hit me up on Instagram](https://www.instagram.com/cru.gg/)
@@ -37,4 +38,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
 -   📺 Plans to watch [Golden Time](https://anilist.co/anime/17895) (01:32, 07 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
+</details>
+
+<details>
+  <summary>⏱️ WakaTime Statistics</summary>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </details>
