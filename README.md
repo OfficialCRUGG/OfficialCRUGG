@@ -44,5 +44,14 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   <summary>⏱️ WakaTime Statistics</summary>
 
 <!--START_SECTION:waka-->
+```text
+Week: 11 August, 2021 - 17 August, 2021
+
+Vue.js       10 hrs 52 mins  ██████████████░░░░░░░░░░░   56.27 % 
+TypeScript   2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
+JSON         2 hrs 34 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+JavaScript   1 hr 39 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+GraphQL      27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+```
 <!--END_SECTION:waka-->
 </details>
