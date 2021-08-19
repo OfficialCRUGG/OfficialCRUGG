@@ -45,7 +45,7 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
 
 <!--START_SECTION:waka-->
 ```text
-Week: 11 August, 2021 - 17 August, 2021
+Week: 12 August, 2021 - 18 August, 2021
 
 Vue.js       10 hrs 52 mins  ██████████████░░░░░░░░░░░   56.27 % 
 TypeScript   2 hrs 41 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.91 % 
