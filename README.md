@@ -31,11 +31,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Fireworks](https://anilist.co/anime/97908) (18:50, 29 August 2021)
 -   📺 Paused watching [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (20:48, 08 August 2021)
 -   📺 Completed [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (21:19, 07 August 2021)
 -   📺 Watched episode 1 - 23 of [The Pet Girl of Sakurasou](https://anilist.co/anime/13759) (20:55, 07 August 2021)
 -   📺 Plans to watch [Non Non Biyori](https://anilist.co/anime/17549) (01:37, 07 August 2021)
--   📺 Plans to watch [Golden Time](https://anilist.co/anime/17895) (01:32, 07 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
