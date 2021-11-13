@@ -31,11 +31,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (19:31, 13 November 2021)
 -   📺 Plans to watch [Kase-san and Morning Glories](https://anilist.co/anime/99916) (13:07, 07 November 2021)
 -   📺 Plans to watch [The Stranger by the Shore](https://anilist.co/anime/112788) (13:07, 07 November 2021)
 -   📺 Plans to watch [Tamako Market](https://anilist.co/anime/16417) (19:12, 29 August 2021)
 -   📺 Plans to watch [Fireworks](https://anilist.co/anime/97908) (18:50, 29 August 2021)
--   📺 Paused watching [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (20:48, 08 August 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
