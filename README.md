@@ -18,11 +18,8 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 > Sorted by how quickly you can expect a reply
 - [Hit me up on Discord](https://discord.com/users/228965621478588416)
-- [Hit me up on Hiven](https://app.hiven.io/@crugg)
 - [Hit me up on Twitter](https://twitter.com/cruggdev)
-- [Hit me up on Telegram](https://t.me/dennispaulus)
-- [Hit me up on Instagram](https://www.instagram.com/cru.gg/)
-- [Send me a mail](mailto:hello@crugg.de)
+- [Send me a mail](mailto:me@crg.sh)
 </details>
 
 
