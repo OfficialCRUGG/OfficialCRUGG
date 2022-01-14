@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Plans to read [Seaside Stranger: Umibe no Étranger](https://anilist.co/manga/85616) (17:10, 14 January 2022)
+-   📖 Plans to read [Weathering With You](https://anilist.co/manga/110218) (17:10, 14 January 2022)
+-   📖 Read chapter 3 of [5 Centimeters Per Second](https://anilist.co/manga/53419) (17:09, 14 January 2022)
 -   📖 Read chapter 1 - 2 of [5 Centimeters Per Second](https://anilist.co/manga/53419) (18:14, 12 January 2022)
 -   📺 Plans to watch [BELLE](https://anilist.co/anime/127271) (22:06, 02 January 2022)
--   📺 Plans to watch [I Want to Eat Your Pancreas](https://anilist.co/anime/99750) (19:31, 13 November 2021)
--   📺 Plans to watch [Kase-san and Morning Glories](https://anilist.co/anime/99916) (13:07, 07 November 2021)
--   📺 Plans to watch [The Stranger by the Shore](https://anilist.co/anime/112788) (13:07, 07 November 2021)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
