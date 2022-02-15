@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Your Lie in April](https://anilist.co/anime/20665) (07:54, 15 February 2022)
 -   📺 Completed [The Promised Neverland](https://anilist.co/anime/101759) (21:36, 06 February 2022)
 -   📺 Watched episode 1 - 11 of [The Promised Neverland](https://anilist.co/anime/101759) (21:13, 06 February 2022)
 -   📖 Read chapter 4 - 5 of [5 Centimeters Per Second](https://anilist.co/manga/53419) (07:24, 31 January 2022)
 -   📖 Plans to read [your name. Another Side:Earthbound](https://anilist.co/manga/108492) (16:15, 20 January 2022)
--   📺 Completed [The Stranger by the Shore](https://anilist.co/anime/112788) (16:14, 20 January 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
