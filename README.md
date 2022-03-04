@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Fireworks](https://anilist.co/anime/97908) (20:27, 04 March 2022)
 -   📺 Completed [Josee, the Tiger and the Fish](https://anilist.co/anime/113596) (00:49, 01 March 2022)
 -   📺 Plans to watch [Komi Can’t Communicate](https://anilist.co/anime/133965) (16:59, 27 February 2022)
 -   📺 Plans to watch [The Promised Neverland Season 2](https://anilist.co/anime/108725) (21:23, 15 February 2022)
 -   📺 Watched episode 1 - 3 of [Your Lie in April](https://anilist.co/anime/20665) (08:24, 15 February 2022)
--   📺 Completed [The Promised Neverland](https://anilist.co/anime/101759) (21:36, 06 February 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
