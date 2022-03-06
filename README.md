@@ -43,9 +43,7 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
 <!--START_SECTION:waka-->
 
 ```text
-From: 25 February 2022 - To: 04 March 2022
-
-YAML   0 secs          █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
