@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [The Anthem of the Heart](https://anilist.co/anime/20968) (18:59, 07 March 2022)
--   📺 Completed [A Silent Voice](https://anilist.co/anime/20954) (18:58, 07 March 2022)
--   📺 Plans to watch [Given The Movie](https://anilist.co/anime/111734) (20:28, 06 March 2022)
--   📺 Plans to watch [given](https://anilist.co/anime/108430) (20:28, 06 March 2022)
--   📺 Completed [Fireworks](https://anilist.co/anime/97908) (20:27, 04 March 2022)
+-   📖 Plans to read [Komi Can't Communicate](https://anilist.co/manga/97852) (19:36, 07 March 2022)
+-   📖 Plans to read [The Promised Neverland](https://anilist.co/manga/87423) (19:34, 07 March 2022)
+-   📖 Plans to read [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (19:34, 07 March 2022)
+-   📖 Plans to read [A Silent Voice](https://anilist.co/manga/85135) (19:34, 07 March 2022)
+-   📖 Plans to read [your name.](https://anilist.co/manga/97337) (19:34, 07 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
