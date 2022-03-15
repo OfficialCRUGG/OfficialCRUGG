@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📖 Plans to read [Komi Can't Communicate](https://anilist.co/manga/97852) (19:36, 07 March 2022)
--   📖 Plans to read [The Promised Neverland](https://anilist.co/manga/87423) (19:34, 07 March 2022)
--   📖 Plans to read [Josee, the Tiger and the Fish](https://anilist.co/manga/125025) (19:34, 07 March 2022)
--   📖 Plans to read [A Silent Voice](https://anilist.co/manga/85135) (19:34, 07 March 2022)
--   📖 Plans to read [your name.](https://anilist.co/manga/97337) (19:34, 07 March 2022)
+-   📺 Plans to watch [Natsu e no Tunnel, Sayonara no Deguchi](https://anilist.co/anime/142769) (20:04, 15 March 2022)
+-   📺 Plans to watch [The Moment You Fall in Love](https://anilist.co/anime/21757) (20:01, 15 March 2022)
+-   📺 Plans to watch [I've Always Liked You](https://anilist.co/anime/21296) (20:00, 15 March 2022)
+-   📺 Plans to watch [Doukyuusei -Classmates-](https://anilist.co/anime/21096) (20:00, 15 March 2022)
+-   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (19:56, 15 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
