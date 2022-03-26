@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [The Anthem of the Heart](https://anilist.co/anime/20968) (20:03, 26 March 2022)
 -   📺 Plans to watch [Natsu e no Tunnel, Sayonara no Deguchi](https://anilist.co/anime/142769) (20:04, 15 March 2022)
 -   📺 Plans to watch [The Moment You Fall in Love](https://anilist.co/anime/21757) (20:01, 15 March 2022)
 -   📺 Plans to watch [I've Always Liked You](https://anilist.co/anime/21296) (20:00, 15 March 2022)
 -   📺 Plans to watch [Doukyuusei -Classmates-](https://anilist.co/anime/21096) (20:00, 15 March 2022)
--   📺 Plans to watch [HELLO WORLD](https://anilist.co/anime/106240) (19:56, 15 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
