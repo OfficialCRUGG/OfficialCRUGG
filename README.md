@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Flavors of Youth](https://anilist.co/anime/101231) (21:30, 14 April 2022)
 -   📺 Plans to watch [Suzume no Tojimari](https://anilist.co/anime/142770) (14:07, 10 April 2022)
 -   📺 Plans to watch [Words Bubble Up Like Soda Pop](https://anilist.co/anime/107625) (18:10, 03 April 2022)
 -   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (16:17, 02 April 2022)
 -   📺 Completed [The Anthem of the Heart](https://anilist.co/anime/20968) (20:03, 26 March 2022)
--   📺 Plans to watch [Natsu e no Tunnel, Sayonara no Deguchi](https://anilist.co/anime/142769) (20:04, 15 March 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
