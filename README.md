@@ -30,7 +30,7 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
 
 -   📺 Completed [Cross Road](https://anilist.co/anime/20831) (10:30, 22 April 2022)
 -   📺 Completed [Flavors of Youth](https://anilist.co/anime/101231) (21:30, 14 April 2022)
--   📺 Plans to watch [Suzume no Tojimari](https://anilist.co/anime/142770) (14:07, 10 April 2022)
+-   📺 Plans to watch [Suzume no Tojimari (Working Title)](https://anilist.co/anime/142770) (14:07, 10 April 2022)
 -   📺 Plans to watch [Words Bubble Up Like Soda Pop](https://anilist.co/anime/107625) (18:10, 03 April 2022)
 -   📺 Completed [A Whisker Away](https://anilist.co/anime/114963) (16:17, 02 April 2022)
 
