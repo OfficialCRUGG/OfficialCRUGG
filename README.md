@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [BELLE](https://anilist.co/anime/127271) (10:55, 13 June 2022)
 -   📺 Plans to watch [Neon Genesis Evangelion](https://anilist.co/anime/30) (14:33, 08 June 2022)
 -   📖 Read chapter 4 of [Aozora to Kumorizora](https://anilist.co/manga/101076) (18:26, 05 June 2022)
 -   📖 Plans to read [Kimi wa Houkago Insomnia](https://anilist.co/manga/110473) (17:21, 05 June 2022)
 -   📺 Completed [Cross Road](https://anilist.co/anime/20831) (10:30, 22 April 2022)
--   📺 Completed [Flavors of Youth](https://anilist.co/anime/101231) (21:30, 14 April 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
