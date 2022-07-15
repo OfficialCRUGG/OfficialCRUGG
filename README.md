@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 - 7 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (13:44, 15 July 2022)
 -   📺 Watched episode 2 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (10:39, 14 July 2022)
 -   📺 Watched episode 3 - 5 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (10:15, 14 July 2022)
 -   📺 Watched episode 2 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (23:15, 13 July 2022)
 -   📺 Watched episode 1 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (14:46, 13 July 2022)
--   📺 Completed [BELLE](https://anilist.co/anime/127271) (10:55, 13 June 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
