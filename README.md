@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (23:17, 15 July 2022)
--   📺 Watched episode 9 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (22:35, 15 July 2022)
--   📺 Watched episode 6 - 7 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (13:44, 15 July 2022)
--   📺 Watched episode 2 of [Komi Can’t Communicate](https://anilist.co/anime/133965) (10:39, 14 July 2022)
--   📺 Watched episode 3 - 5 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (10:15, 14 July 2022)
+-   📺 Plans to watch [Bubble](https://anilist.co/anime/142455) (11:08, 16 July 2022)
+-   📺 Plans to watch [Violet Evergarden: the Movie](https://anilist.co/anime/103047) (11:07, 16 July 2022)
+-   📺 Plans to watch [Violet Evergarden: Eternity and the Auto Memory Doll](https://anilist.co/anime/109190) (11:06, 16 July 2022)
+-   📺 Plans to watch [Violet Evergarden](https://anilist.co/anime/21827) (11:06, 16 July 2022)
+-   📺 Plans to watch [Eromanga Sensei](https://anilist.co/anime/21685) (11:06, 16 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
