@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Doukyuusei -Classmates-](https://anilist.co/anime/21096) (20:19, 23 July 2022)
 -   📺 Watched episode 4 - 5 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (23:10, 19 July 2022)
 -   📺 Plans to watch [Aharen-san wa Hakarenai](https://anilist.co/anime/137281) (19:27, 18 July 2022)
 -   📺 Completed [The Promised Neverland Season 2](https://anilist.co/anime/108725) (10:44, 18 July 2022)
 -   📺 Watched episode 10 of [The Promised Neverland Season 2](https://anilist.co/anime/108725) (23:16, 17 July 2022)
--   📺 Plans to watch [A Couple of Cuckoos](https://anilist.co/anime/132052) (15:39, 17 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
