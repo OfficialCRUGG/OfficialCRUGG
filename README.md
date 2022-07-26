@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (22:39, 26 July 2022)
 -   📺 Plans to watch [Hyouka](https://anilist.co/anime/12189) (10:02, 25 July 2022)
 -   📖 Plans to read [We Never Learn](https://anilist.co/manga/98235) (09:58, 25 July 2022)
 -   📖 Plans to read [She and Her Cat](https://anilist.co/manga/96791) (09:58, 25 July 2022)
 -   📖 Plans to read [Yuki no Shita no Qualia](https://anilist.co/manga/86360) (09:58, 25 July 2022)
--   📺 Plans to watch [ERASED](https://anilist.co/anime/21234) (09:54, 25 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
