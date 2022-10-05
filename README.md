@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 7 of [Boy's Abyss](https://anilist.co/manga/116186) (15:02, 30 September 2022)
+-   📖 Read chapter 2 of [Boy's Abyss](https://anilist.co/manga/116186) (10:03, 30 September 2022)
+-   📖 Read chapter 1 of [Boy's Abyss](https://anilist.co/manga/116186) (07:00, 30 September 2022)
+-   📺 Rewatched episode 2 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (20:40, 25 September 2022)
 -   📺 Watched episode 6 of [Shikimori's Not Just a Cutie](https://anilist.co/anime/127911) (22:39, 26 July 2022)
--   📺 Plans to watch [Hyouka](https://anilist.co/anime/12189) (10:02, 25 July 2022)
--   📖 Plans to read [We Never Learn](https://anilist.co/manga/98235) (09:58, 25 July 2022)
--   📖 Plans to read [She and Her Cat](https://anilist.co/manga/96791) (09:58, 25 July 2022)
--   📖 Plans to read [Yuki no Shita no Qualia](https://anilist.co/manga/86360) (09:58, 25 July 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
