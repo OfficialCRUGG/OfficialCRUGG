@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 8 of [Boy's Abyss](https://anilist.co/manga/116186) (14:47, 12 October 2022)
 -   📺 Plans to watch [Napping Princess](https://anilist.co/anime/21788) (10:12, 12 October 2022)
 -   📖 Read chapter 7 of [Boy's Abyss](https://anilist.co/manga/116186) (15:02, 30 September 2022)
 -   📖 Read chapter 2 of [Boy's Abyss](https://anilist.co/manga/116186) (10:03, 30 September 2022)
 -   📖 Read chapter 1 of [Boy's Abyss](https://anilist.co/manga/116186) (07:00, 30 September 2022)
--   📺 Rewatched episode 2 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (20:40, 25 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
