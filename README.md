@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (20:11, 12 November 2022)
 -   📖 Read chapter 9 of [Boy's Abyss](https://anilist.co/manga/116186) (12:28, 28 October 2022)
 -   📖 Read chapter 8 of [Boy's Abyss](https://anilist.co/manga/116186) (14:47, 12 October 2022)
 -   📺 Plans to watch [Napping Princess](https://anilist.co/anime/21788) (10:12, 12 October 2022)
 -   📖 Read chapter 7 of [Boy's Abyss](https://anilist.co/manga/116186) (15:02, 30 September 2022)
--   📖 Read chapter 2 of [Boy's Abyss](https://anilist.co/manga/116186) (10:03, 30 September 2022)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
