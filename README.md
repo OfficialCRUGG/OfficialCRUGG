@@ -4,7 +4,7 @@
 
 #### Who I am
 
-I'm a 16-year-old dev and graphic designer, currently living in Germany
+I'm a 17-year-old dev and graphic designer, currently living in Germany
 
 <details>
   <summary>💼 What I do</summary>
