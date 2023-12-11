@@ -28,11 +28,11 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Paused watching [Your lie in April](https://anilist.co/anime/20665) (22:48, 20 November 2022)
--   📖 Paused reading [Aozora to Kumorizora](https://anilist.co/manga/101076) (22:36, 17 November 2022)
--   📖 Paused reading [5 Centimeters Per Second](https://anilist.co/manga/53419) (22:35, 17 November 2022)
--   📺 Plans to watch [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (20:11, 12 November 2022)
--   📖 Read chapter 9 of [Boy's Abyss](https://anilist.co/manga/116186) (12:28, 28 October 2022)
+-   📺 Completed [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (16:43, 30 November 2023)
+-   📺 Watched episode 6 - 7 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (22:31, 23 November 2023)
+-   📺 Watched episode 2 - 5 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (21:26, 22 November 2023)
+-   📺 Watched episode 1 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (21:24, 21 November 2023)
+-   📺 Plans to watch [Himouto! Umaru-chan](https://anilist.co/anime/20987) (18:49, 17 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
