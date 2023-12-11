@@ -42,8 +42,14 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
 
 <!--START_SECTION:waka-->
 
-```text
-No activity tracked
+```txt
+From: 02 December 2023 - To: 09 December 2023
+
+Svelte       4 hrs 11 mins   █████████▒░░░░░░░░░░░░░░░   37.28 %
+TypeScript   1 hr 1 min      ██▒░░░░░░░░░░░░░░░░░░░░░░   09.08 %
+PHP          56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 %
+JSON         56 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 %
+Less         52 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 %
 ```
 
 <!--END_SECTION:waka-->
