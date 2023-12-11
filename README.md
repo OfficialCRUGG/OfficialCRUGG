@@ -4,13 +4,58 @@
 
 #### Who I am
 
-I'm a 17-year-old dev and graphic designer, currently living in Germany
+I'm a 17-year-old creative, software engineer and designer, currently living in Germany
 
 <details>
   <summary>💼 What I do</summary>
-  
-I am currently primarily working on [taiga Bot](https://taigabot.net) and [PartydoosMedia](https://partydoosmedia.com)
-I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](https://store.steampowered.com/app/605740/Flashing_Lights__Police_Firefighting_Emergency_Services_Simulator/), [Hypixel](https://hypixel.net/), [Discord Templates](https://discordtemplates.com/), [Discord Extreme List](https://discordextremelist.xyz/), [Kitsu](https://kitsu.io/), [Minecraft](https://minecraft.net/), and [taiga Bot](https://taigabot.net) to the German language
+
+I currently am working on starting a publishing and management company for creatives.
+I also am creative lead, community manager, and web developer at the Minecraft Server [Xenyria](https://xenyria.net) and the team behind it, [Pixelground Labs](https://pixelgroundlabs.com).
+</details>
+
+<details>
+  <summary>📁 Projects & Repositories</summary>
+
+<table>
+    <thead>
+        <tr>
+            <th colspan=2>Svelte Libraries</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/pixelgroundlabs/svelte-skinview3d">pixelgroundlabs/svelte-skinview3d</a></td>
+            <td>A svelte component for rendering Minecraft SKins in 3D based on <a href="https://github.com/bs-community/skinview3d">skinview3d</a></td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=2>Minecraft Mods</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/XenyriaNET/xeem">Xenyria Experience Enhancement Mod</a></td>
+            <td>A client-side Minecraft Mod aiming to improve the experience on the Xenyria Minecraft Server</td>
+        </tr>
+    </tbody>
+    <thead>
+        <tr>
+            <th colspan=2>Old Stuff</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="https://github.com/OfficialCRUGG/lwstatus">lwstatus</a></td>
+            <td>Lightweight webserver exposing various system metrics as a JSON endpoint and frontend</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/OfficialCRUGG/cfddns">cfddns / cloudflare-dyndns</a></td>
+            <td>Simple application to run in the background that regularly checks for IP address changes and updates specific Cloudflare DNS Records accordingly. <s><i>Not sure how this still works...</i></s></td>
+        </tr>
+    </tbody>
+</table>
+
 </details>
 
 <details>
@@ -24,7 +69,7 @@ I helped / am helping translate [PreMiD](https://premid.app), [Flashing Lights](
 
 
 <details>
-  <summary>🌸 My recent anime activity</summary>
+  <summary>🌸 My recent anime & manga activity</summary>
   
 <!-- ANILIST_ACTIVITY:start -->
 
