@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 6 of [Toradora!](https://anilist.co/anime/4224) (03:07, 17 December 2023)
 -   📺 Plans to watch [WATATEN!: an Angel Flew Down to Me](https://anilist.co/anime/102680) (09:22, 13 December 2023)
 -   📺 Plans to watch [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (09:21, 13 December 2023)
 -   📺 Completed [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (16:43, 30 November 2023)
 -   📺 Watched episode 6 - 7 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (22:31, 23 November 2023)
--   📺 Watched episode 2 - 5 of [Scott Pilgrim Takes Off](https://anilist.co/anime/170206) (21:26, 22 November 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
