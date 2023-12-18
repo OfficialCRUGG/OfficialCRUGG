@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Horimiya](https://anilist.co/anime/124080) (20:21, 18 December 2023)
 -   📺 Plans to watch [Akira](https://anilist.co/anime/47) (17:13, 18 December 2023)
 -   📺 Rewatched episode 7 - 8 of [Toradora!](https://anilist.co/anime/4224) (23:32, 17 December 2023)
 -   📺 Rewatched episode 1 - 6 of [Toradora!](https://anilist.co/anime/4224) (03:07, 17 December 2023)
 -   📺 Plans to watch [WATATEN!: an Angel Flew Down to Me](https://anilist.co/anime/102680) (09:22, 13 December 2023)
--   📺 Plans to watch [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (09:21, 13 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
