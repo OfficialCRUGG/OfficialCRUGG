@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [Horimiya](https://anilist.co/anime/124080) (19:27, 19 December 2023)
 -   📺 Plans to watch [The Familiar of Zero: "Rondo" of Princesses](https://anilist.co/anime/3712) (08:47, 19 December 2023)
 -   📺 Plans to watch [Rent-a-Girlfriend](https://anilist.co/anime/113813) (08:47, 19 December 2023)
 -   📺 Plans to watch [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (08:46, 19 December 2023)
 -   📺 Plans to watch [Fruits Basket (2019)](https://anilist.co/anime/105334) (08:43, 19 December 2023)
--   📺 Plans to watch [Kuma Kuma Kuma Bear](https://anilist.co/anime/114340) (08:43, 19 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
