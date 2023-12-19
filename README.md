@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Horimiya](https://anilist.co/anime/124080) (21:41, 18 December 2023)
--   📺 Plans to watch [Akira](https://anilist.co/anime/47) (17:13, 18 December 2023)
--   📺 Rewatched episode 7 - 8 of [Toradora!](https://anilist.co/anime/4224) (23:32, 17 December 2023)
--   📺 Rewatched episode 1 - 6 of [Toradora!](https://anilist.co/anime/4224) (03:07, 17 December 2023)
--   📺 Plans to watch [WATATEN!: an Angel Flew Down to Me](https://anilist.co/anime/102680) (09:22, 13 December 2023)
+-   📺 Plans to watch [The Familiar of Zero: "Rondo" of Princesses](https://anilist.co/anime/3712) (08:47, 19 December 2023)
+-   📺 Plans to watch [Rent-a-Girlfriend](https://anilist.co/anime/113813) (08:47, 19 December 2023)
+-   📺 Plans to watch [My Teen Romantic Comedy SNAFU TOO!](https://anilist.co/anime/20698) (08:46, 19 December 2023)
+-   📺 Plans to watch [Fruits Basket (2019)](https://anilist.co/anime/105334) (08:43, 19 December 2023)
+-   📺 Plans to watch [Kuma Kuma Kuma Bear](https://anilist.co/anime/114340) (08:43, 19 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
