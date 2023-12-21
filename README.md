@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Paused reading [Boy's Abyss](https://anilist.co/manga/116186) (11:36, 21 December 2023)
+-   📺 Watched episode 1 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (11:36, 21 December 2023)
 -   📺 Watched episode 5 - 6 of [Horimiya](https://anilist.co/anime/124080) (18:06, 20 December 2023)
 -   📺 Plans to watch [Seishun Buta Yarou: Daigakusei-hen](https://anilist.co/anime/171046) (11:33, 20 December 2023)
 -   📺 Plans to watch [Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai](https://anilist.co/anime/161474) (11:33, 20 December 2023)
--   📺 Plans to watch [Rascal Does Not Dream of a Sister Venturing Out](https://anilist.co/anime/154967) (11:33, 20 December 2023)
--   📺 Watched episode 3 - 4 of [Horimiya](https://anilist.co/anime/124080) (19:27, 19 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
