@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 - 12 of [Horimiya](https://anilist.co/anime/124080) (15:53, 23 December 2023)
 -   📺 Plans to watch [Masamune-kun's Revenge](https://anilist.co/anime/21857) (17:47, 22 December 2023)
 -   📺 Watched episode 9 - 10 of [Horimiya](https://anilist.co/anime/124080) (17:46, 22 December 2023)
 -   📺 Watched episode 7 - 8 of [Horimiya](https://anilist.co/anime/124080) (18:02, 21 December 2023)
 -   📺 Plans to watch [Monthly Girls' Nozaki-kun](https://anilist.co/anime/20668) (15:56, 21 December 2023)
--   📖 Paused reading [Boy's Abyss](https://anilist.co/manga/116186) (11:36, 21 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
