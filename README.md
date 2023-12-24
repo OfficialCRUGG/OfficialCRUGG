@@ -73,7 +73,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 9 of [Toradora!](https://anilist.co/anime/4224) (02:07, 24 December 2023)
+-   📺 Rewatched episode 9 - 10 of [Toradora!](https://anilist.co/anime/4224) (02:28, 24 December 2023)
 -   📺 Watched episode 11 - 12 of [Horimiya](https://anilist.co/anime/124080) (15:53, 23 December 2023)
 -   📺 Plans to watch [Masamune-kun's Revenge](https://anilist.co/anime/21857) (17:47, 22 December 2023)
 -   📺 Watched episode 9 - 10 of [Horimiya](https://anilist.co/anime/124080) (17:46, 22 December 2023)
