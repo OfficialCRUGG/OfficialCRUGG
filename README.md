@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 11 of [Toradora!](https://anilist.co/anime/4224) (02:02, 25 December 2023)
 -   📖 Plans to read [Fly Me to the Moon](https://anilist.co/manga/101177) (17:42, 24 December 2023)
 -   📖 Plans to read [Hori-san to Miyamura-kun](https://anilist.co/manga/66615) (17:42, 24 December 2023)
 -   📺 Plans to watch [Hori-san to Miyamura-kun: Shingakki](https://anilist.co/anime/14753) (17:41, 24 December 2023)
 -   📺 Rewatched episode 9 - 10 of [Toradora!](https://anilist.co/anime/4224) (02:28, 24 December 2023)
--   📺 Watched episode 11 - 12 of [Horimiya](https://anilist.co/anime/124080) (15:53, 23 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
