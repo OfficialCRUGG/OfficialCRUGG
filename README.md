@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 17 of [Toradora!](https://anilist.co/anime/4224) (03:26, 28 December 2023)
 -   📺 Plans to watch [The Girl Who Leapt Through Time](https://anilist.co/anime/2236) (20:37, 27 December 2023)
 -   📺 Watched episode 2 - 3 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (17:24, 27 December 2023)
 -   📺 Rewatched episode 16 of [Toradora!](https://anilist.co/anime/4224) (03:01, 27 December 2023)
 -   📺 Watched episode 2 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (23:21, 26 December 2023)
--   📺 Plans to watch [Asteroid in Love](https://anilist.co/anime/108092) (17:41, 26 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
