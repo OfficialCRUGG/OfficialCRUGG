@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (18:39, 29 December 2023)
 -   📺 Rewatched episode 18 of [Toradora!](https://anilist.co/anime/4224) (03:38, 29 December 2023)
 -   📺 Plans to watch [Tsuredure Children](https://anilist.co/anime/98291) (22:05, 28 December 2023)
 -   📺 Watched episode 4 - 5 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (17:53, 28 December 2023)
 -   📺 Rewatched episode 17 of [Toradora!](https://anilist.co/anime/4224) (03:26, 28 December 2023)
--   📺 Plans to watch [The Girl Who Leapt Through Time](https://anilist.co/anime/2236) (20:37, 27 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
