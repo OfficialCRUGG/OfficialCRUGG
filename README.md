@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (01:51, 01 January 2024)
+-   📺 Paused watching [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (01:39, 01 January 2024)
+-   📺 Paused watching [Bloom Into You](https://anilist.co/anime/101573) (01:39, 01 January 2024)
 -   📺 Watched episode 4 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (16:14, 31 December 2023)
 -   📺 Rewatched episode 19 of [Toradora!](https://anilist.co/anime/4224) (03:00, 31 December 2023)
--   📺 Watched episode 7 - 9 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (15:57, 30 December 2023)
--   📺 Watched episode 3 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (23:52, 29 December 2023)
--   📺 Watched episode 6 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (18:39, 29 December 2023)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
