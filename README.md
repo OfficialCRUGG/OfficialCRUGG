@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 4 - 5 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (05:33, 03 January 2024)
 -   📺 Plans to watch [The Dreaming Boy is a Realist](https://anilist.co/anime/157397) (19:56, 02 January 2024)
 -   📺 Plans to watch 1 of [The Deer King](https://anilist.co/anime/102891) (19:45, 02 January 2024)
 -   📺 Rewatched episode 3 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (03:37, 02 January 2024)
 -   📺 Rewatched episode 20 of [Toradora!](https://anilist.co/anime/4224) (02:55, 02 January 2024)
--   📺 Watched episode 5 - 6 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (03:13, 01 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
