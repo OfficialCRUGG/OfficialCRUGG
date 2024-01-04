@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (17:17, 04 January 2024)
+-   📺 Watched episode 12 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (17:17, 04 January 2024)
 -   📺 Rewatched episode 7 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (03:57, 04 January 2024)
 -   📺 Rewatched episode 6 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (00:14, 04 January 2024)
 -   📺 Watched episode 10 - 11 of [Horimiya: The Missing Pieces](https://anilist.co/anime/163132) (16:59, 03 January 2024)
--   📺 Rewatched episode 4 - 5 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (05:33, 03 January 2024)
--   📺 Plans to watch [The Dreaming Boy is a Realist](https://anilist.co/anime/157397) (19:56, 02 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
