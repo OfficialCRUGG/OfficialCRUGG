@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (21:53, 15 January 2024)
 -   📺 Rewatched 13 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (22:06, 14 January 2024)
 -   📺 Rewatched episode 12 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (21:40, 14 January 2024)
 -   📺 Watched episode 2 of [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (17:57, 14 January 2024)
 -   📺 Paused watching [Seraph of the End: Vampire Reign](https://anilist.co/anime/20829) (17:57, 14 January 2024)
--   📺 Rewatched episode 23 of [Toradora!](https://anilist.co/anime/4224) (03:30, 14 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
