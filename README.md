@@ -88,7 +88,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 January 2024 - To: 18 January 2024
+From: 12 January 2024 - To: 19 January 2024
 
 JavaScript   2 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.76 %
 JSON         1 hr 41 mins    ███████▒░░░░░░░░░░░░░░░░░   29.00 %
