@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [SPY x FAMILY CODE: White ](https://anilist.co/anime/158928) (11:43, 09 April 2024)
 -   📺 Watched episode 11 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (13:15, 07 April 2024)
 -   📺 Plans to watch [SCHOOL-LIVE!](https://anilist.co/anime/20754) (10:56, 26 March 2024)
 -   📺 Rewatched episode 24 of [Toradora!](https://anilist.co/anime/4224) (17:02, 11 March 2024)
 -   📺 Watched episode 4 of [Charlotte](https://anilist.co/anime/20997) (20:31, 21 January 2024)
--   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san](https://anilist.co/anime/162804) (10:21, 20 January 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
