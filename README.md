@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 - 2 of [Golden Time](https://anilist.co/anime/17895) (01:42, 24 April 2024)
 -   📺 Completed [SPY x FAMILY CODE: White ](https://anilist.co/anime/158928) (20:45, 23 April 2024)
 -   📺 Completed [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (22:38, 09 April 2024)
 -   📺 Plans to watch [SPY x FAMILY CODE: White ](https://anilist.co/anime/158928) (11:43, 09 April 2024)
 -   📺 Watched episode 11 of [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (13:15, 07 April 2024)
--   📺 Plans to watch [SCHOOL-LIVE!](https://anilist.co/anime/20754) (10:56, 26 March 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
