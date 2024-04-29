@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (16:01, 29 April 2024)
+-   📺 Watched episode 3 - 4 of [Call of the Night](https://anilist.co/anime/141391) (15:53, 29 April 2024)
+-   📺 Plans to watch [Yofukashi no Uta 2nd Season](https://anilist.co/anime/175914) (15:28, 29 April 2024)
+-   📺 Plans to watch [Train to the End of the World](https://anilist.co/anime/155657) (15:17, 29 April 2024)
 -   📺 Watched episode 1 - 2 of [Call of the Night](https://anilist.co/anime/141391) (23:34, 27 April 2024)
--   📺 Watched episode 3 - 4 of [Golden Time](https://anilist.co/anime/17895) (14:18, 24 April 2024)
--   📺 Watched episode 1 - 2 of [Golden Time](https://anilist.co/anime/17895) (01:42, 24 April 2024)
--   📺 Completed [SPY x FAMILY CODE: White ](https://anilist.co/anime/158928) (20:45, 23 April 2024)
--   📺 Completed [SPY x FAMILY Season 2](https://anilist.co/anime/158927) (22:38, 09 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
