@@ -73,7 +73,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 8 of [Call of the Night](https://anilist.co/anime/141391) (18:04, 29 April 2024)
+-   📺 Watched episode 3 - 9 of [Call of the Night](https://anilist.co/anime/141391) (18:28, 29 April 2024)
 -   📺 Plans to watch [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (16:01, 29 April 2024)
 -   📺 Plans to watch [Yofukashi no Uta 2nd Season](https://anilist.co/anime/175914) (15:28, 29 April 2024)
 -   📺 Plans to watch [Train to the End of the World](https://anilist.co/anime/155657) (15:17, 29 April 2024)
