@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Call of the Night](https://anilist.co/anime/141391) (03:53, 01 May 2024)
+-   📺 Watched episode 12 of [Call of the Night](https://anilist.co/anime/141391) (03:25, 01 May 2024)
 -   📺 Plans to watch [A Certain Magical Index](https://anilist.co/anime/4654) (00:30, 01 May 2024)
 -   📺 Watched episode 10 - 11 of [Call of the Night](https://anilist.co/anime/141391) (02:58, 30 April 2024)
 -   📺 Watched episode 3 - 9 of [Call of the Night](https://anilist.co/anime/141391) (18:28, 29 April 2024)
--   📺 Plans to watch [Kubo Won't Let Me Be Invisible](https://anilist.co/anime/148969) (16:01, 29 April 2024)
--   📺 Plans to watch [Yofukashi no Uta 2nd Season](https://anilist.co/anime/175914) (15:28, 29 April 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
