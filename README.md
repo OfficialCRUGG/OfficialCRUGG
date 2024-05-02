@@ -4,7 +4,7 @@
 
 #### Who I am
 
-I'm a 17-year-old creative, software engineer and designer, currently living in Germany
+I'm a 18-year-old creative, software engineer and designer, currently living in Germany
 
 <details>
   <summary>💼 What I do</summary>
