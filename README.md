@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Classroom of the Elite](https://anilist.co/anime/98659) (01:22, 02 May 2024)
 -   📺 Watched episode 3 of [Classroom of the Elite](https://anilist.co/anime/98659) (20:18, 01 May 2024)
 -   📺 Watched episode 1 - 2 of [Classroom of the Elite](https://anilist.co/anime/98659) (13:58, 01 May 2024)
 -   📺 Completed [Call of the Night](https://anilist.co/anime/141391) (03:53, 01 May 2024)
 -   📺 Watched episode 12 of [Call of the Night](https://anilist.co/anime/141391) (03:25, 01 May 2024)
--   📺 Plans to watch [A Certain Magical Index](https://anilist.co/anime/4654) (00:30, 01 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
