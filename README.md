@@ -73,7 +73,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 8 of [Classroom of the Elite](https://anilist.co/anime/98659) (02:05, 03 May 2024)
+-   📺 Watched episode 8 - 10 of [Classroom of the Elite](https://anilist.co/anime/98659) (02:28, 03 May 2024)
 -   📺 Watched episode 7 of [Classroom of the Elite](https://anilist.co/anime/98659) (22:40, 02 May 2024)
 -   📺 Watched episode 4 - 6 of [Classroom of the Elite](https://anilist.co/anime/98659) (02:08, 02 May 2024)
 -   📺 Watched episode 3 of [Classroom of the Elite](https://anilist.co/anime/98659) (20:18, 01 May 2024)
