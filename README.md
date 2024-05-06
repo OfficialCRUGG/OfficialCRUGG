@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (01:14, 06 May 2024)
+-   📺 Watched episode 2 of [Gabriel DropOut](https://anilist.co/anime/21878) (00:48, 06 May 2024)
 -   📺 Watched episode 2 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (06:21, 05 May 2024)
 -   📺 Watched episode 1 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (14:28, 04 May 2024)
 -   📺 Plans to watch [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (04:34, 04 May 2024)
--   📺 Completed [Classroom of the Elite](https://anilist.co/anime/98659) (04:24, 04 May 2024)
--   📺 Watched episode 11 of [Classroom of the Elite](https://anilist.co/anime/98659) (04:01, 04 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
