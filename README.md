@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Gabriel DropOut](https://anilist.co/anime/21878) (07:51, 09 May 2024)
 -   📺 Plans to watch [Shakugan no Shana](https://anilist.co/anime/355) (02:55, 09 May 2024)
 -   📺 Plans to watch [The Case of Hana & Alice](https://anilist.co/anime/20908) (16:05, 08 May 2024)
 -   📺 Watched episode 6 of [Gabriel DropOut](https://anilist.co/anime/21878) (01:45, 08 May 2024)
 -   📺 Watched episode 7 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (01:19, 08 May 2024)
--   📺 Watched episode 5 of [Gabriel DropOut](https://anilist.co/anime/21878) (15:20, 07 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
