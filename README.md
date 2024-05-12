@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Gabriel DropOut](https://anilist.co/anime/21878) (17:06, 12 May 2024)
 -   📺 Watched episode 11 of [Gabriel DropOut](https://anilist.co/anime/21878) (16:40, 12 May 2024)
 -   📺 Watched episode 10 of [Gabriel DropOut](https://anilist.co/anime/21878) (21:58, 11 May 2024)
 -   📺 Plans to watch [Sword Art Online](https://anilist.co/anime/11757) (20:56, 11 May 2024)
 -   📺 Plans to watch [The Future Diary](https://anilist.co/anime/10620) (20:50, 11 May 2024)
--   📺 Plans to watch [Date A Live](https://anilist.co/anime/15583) (20:47, 11 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
