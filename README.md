@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (15:47, 14 May 2024)
 -   📺 Watched episode 9 - 10 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (02:50, 14 May 2024)
 -   📺 Watched episode 8 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (01:32, 13 May 2024)
 -   📺 Completed [Gabriel DropOut](https://anilist.co/anime/21878) (17:06, 12 May 2024)
 -   📺 Watched episode 11 of [Gabriel DropOut](https://anilist.co/anime/21878) (16:40, 12 May 2024)
--   📺 Watched episode 10 of [Gabriel DropOut](https://anilist.co/anime/21878) (21:58, 11 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
