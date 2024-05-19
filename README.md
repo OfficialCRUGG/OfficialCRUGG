@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [BNA](https://anilist.co/anime/110354) (22:51, 19 May 2024)
 -   📺 Watched episode 1 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (21:07, 15 May 2024)
 -   📺 Plans to watch [Laid-Back Camp](https://anilist.co/anime/98444) (19:12, 15 May 2024)
 -   📺 Completed [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (00:29, 15 May 2024)
 -   📺 Watched episode 11 - 12 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (00:06, 15 May 2024)
--   📺 Plans to watch [Girls Band Cry](https://anilist.co/anime/164212) (15:47, 14 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
