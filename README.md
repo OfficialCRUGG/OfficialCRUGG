@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [The Dangers in My Heart](https://anilist.co/anime/153152) (23:36, 28 May 2024)
 -   📺 Plans to watch [The Dangers in My Heart](https://anilist.co/anime/153152) (20:05, 27 May 2024)
 -   📺 Plans to watch [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (17:54, 22 May 2024)
 -   📺 Plans to watch [SHY](https://anilist.co/anime/155389) (14:04, 20 May 2024)
 -   📺 Plans to watch [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (14:03, 20 May 2024)
--   📺 Plans to watch [BNA](https://anilist.co/anime/110354) (22:51, 19 May 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
