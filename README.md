@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Plans to watch [A Sign of Affection](https://anilist.co/anime/166794) (20:15, 29 May 2024)
--   📺 Watched episode 1 of [The Dangers in My Heart](https://anilist.co/anime/153152) (23:36, 28 May 2024)
--   📺 Plans to watch [The Dangers in My Heart](https://anilist.co/anime/153152) (20:05, 27 May 2024)
--   📺 Plans to watch [The Melancholy of Haruhi Suzumiya (2009)](https://anilist.co/anime/4382) (17:54, 22 May 2024)
--   📺 Plans to watch [SHY](https://anilist.co/anime/155389) (14:04, 20 May 2024)
+-   📺 Plans to watch [The Quintessential Quintuplets](https://anilist.co/anime/103572) (11:41, 02 June 2024)
+-   📺 Plans to watch [Liz and the Blue Bird](https://anilist.co/anime/100178) (11:38, 02 June 2024)
+-   📺 Plans to watch [Little Witch Academia (TV)](https://anilist.co/anime/21858) (11:34, 02 June 2024)
+-   📺 Plans to watch [Little Witch Academia](https://anilist.co/anime/14349) (11:34, 02 June 2024)
+-   📺 Plans to watch [Kill la Kill](https://anilist.co/anime/18679) (11:34, 02 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
