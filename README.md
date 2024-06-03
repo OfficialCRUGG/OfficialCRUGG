@@ -88,13 +88,13 @@ I also am creative lead, community manager, and web developer at the Minecraft S
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
-Other         8 hrs 17 mins   ████████████░░░░░░░░░░░░░   47.42 %
-Svelte        3 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.57 %
-Markdown      2 hrs 19 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.26 %
-TypeScript    1 hr 15 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-JSON          27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Other         4 hrs 15 mins   ████████▓░░░░░░░░░░░░░░░░   34.03 %
+Svelte        3 hrs 56 mins   ████████░░░░░░░░░░░░░░░░░   31.55 %
+Markdown      1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.50 %
+TypeScript    1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.08 %
+JSON          27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
 ```
 
 <!--END_SECTION:waka-->
