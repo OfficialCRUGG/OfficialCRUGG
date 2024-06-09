@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [SPY×FAMILY Season 3](https://anilist.co/anime/177937) (12:17, 09 June 2024)
 -   📺 Plans to watch [My Deer Friend Nokotan](https://anilist.co/anime/175977) (00:34, 06 June 2024)
 -   📺 Plans to watch [The Quintessential Quintuplets](https://anilist.co/anime/103572) (11:41, 02 June 2024)
 -   📺 Plans to watch [Liz and the Blue Bird](https://anilist.co/anime/100178) (11:38, 02 June 2024)
 -   📺 Plans to watch [Little Witch Academia (TV)](https://anilist.co/anime/21858) (11:34, 02 June 2024)
--   📺 Plans to watch [Little Witch Academia](https://anilist.co/anime/14349) (11:34, 02 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
