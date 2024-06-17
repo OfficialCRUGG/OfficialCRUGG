@@ -73,7 +73,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 3 - 8 of [K-ON!](https://anilist.co/anime/5680) (18:30, 17 June 2024)
+-   📺 Watched episode 3 - 10 of [K-ON!](https://anilist.co/anime/5680) (19:19, 17 June 2024)
 -   📺 Plans to watch [Whisper Me a Love Song](https://anilist.co/anime/160181) (17:40, 17 June 2024)
 -   📺 Paused watching [More than a Married Couple, but Not Lovers.](https://anilist.co/anime/141949) (14:44, 17 June 2024)
 -   📺 Paused watching [Golden Time](https://anilist.co/anime/17895) (14:44, 17 June 2024)
