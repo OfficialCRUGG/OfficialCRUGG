@@ -73,7 +73,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 4 - 8 of [The Dangers in My Heart](https://anilist.co/anime/153152) (00:12, 17 June 2024)
+-   📺 Watched episode 4 - 10 of [The Dangers in My Heart](https://anilist.co/anime/153152) (00:42, 17 June 2024)
 -   📺 Watched episode 2 - 3 of [The Dangers in My Heart](https://anilist.co/anime/153152) (22:25, 12 June 2024)
 -   📖 Read chapter 3 of [Is Love the Answer?](https://anilist.co/manga/140324) (18:41, 12 June 2024)
 -   📖 Read chapter 1 of [Is Love the Answer?](https://anilist.co/manga/140324) (11:48, 11 June 2024)
