@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [K-ON!](https://anilist.co/anime/5680) (16:43, 20 June 2024)
 -   📺 Plans to watch [The Eminence in Shadow](https://anilist.co/anime/130298) (10:34, 20 June 2024)
 -   📖 Read chapter 4 of [Is Love the Answer?](https://anilist.co/manga/140324) (16:17, 18 June 2024)
 -   📺 Plans to watch [Keep Your Hands Off Eizouken!](https://anilist.co/anime/109298) (12:44, 18 June 2024)
 -   📺 Watched episode 11 - 12 of [K-ON!](https://anilist.co/anime/5680) (11:41, 18 June 2024)
--   📺 Watched episode 3 - 10 of [K-ON!](https://anilist.co/anime/5680) (19:19, 17 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
