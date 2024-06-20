@@ -73,7 +73,7 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 5 of [ZOMBIE LAND SAGA](https://anilist.co/anime/103871) (20:58, 20 June 2024)
+-   📺 Watched episode 5 - 9 of [ZOMBIE LAND SAGA](https://anilist.co/anime/103871) (22:34, 20 June 2024)
 -   📺 Completed [Shelter](https://anilist.co/anime/97731) (17:12, 20 June 2024)
 -   📺 Completed [K-ON!](https://anilist.co/anime/5680) (16:43, 20 June 2024)
 -   📺 Plans to watch [The Eminence in Shadow](https://anilist.co/anime/130298) (10:34, 20 June 2024)
