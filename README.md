@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (23:27, 21 June 2024)
+-   📺 Watched episode 11 of [The Dangers in My Heart](https://anilist.co/anime/153152) (23:20, 21 June 2024)
 -   📺 Plans to watch [Zombie Land Saga Movie](https://anilist.co/anime/140337) (12:23, 21 June 2024)
 -   📺 Plans to watch [ZOMBIE LAND SAGA REVENGE](https://anilist.co/anime/110733) (12:23, 21 June 2024)
 -   📺 Completed [ZOMBIE LAND SAGA](https://anilist.co/anime/103871) (12:20, 21 June 2024)
--   📺 Watched episode 10 - 11 of [ZOMBIE LAND SAGA](https://anilist.co/anime/103871) (11:56, 21 June 2024)
--   📺 Completed [K-ON!: Live House!](https://anilist.co/anime/6862) (11:05, 21 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
