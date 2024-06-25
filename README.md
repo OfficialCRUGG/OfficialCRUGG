@@ -73,11 +73,11 @@ I also am creative lead, community manager, and web developer at the Minecraft S
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (00:01, 25 June 2024)
 -   📖 Read chapter 5 of [Is Love the Answer?](https://anilist.co/manga/140324) (10:15, 24 June 2024)
 -   📺 Watched episode 1 - 2 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (00:43, 24 June 2024)
 -   📺 Completed [The Dangers in My Heart](https://anilist.co/anime/153152) (23:53, 22 June 2024)
 -   📺 Paused watching [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (23:27, 21 June 2024)
--   📺 Watched episode 11 of [The Dangers in My Heart](https://anilist.co/anime/153152) (23:20, 21 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
