@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [K-ON! Season 2](https://anilist.co/anime/7791) (15:33, 02 July 2024)
 -   📺 Watched episode 3 of [K-ON! Season 2](https://anilist.co/anime/7791) (21:15, 27 June 2024)
 -   📺 Watched episode 6 - 8 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (14:54, 26 June 2024)
 -   📺 Watched episode 1 - 2 of [K-ON! Season 2](https://anilist.co/anime/7791) (01:20, 25 June 2024)
 -   📺 Watched episode 3 - 5 of [My Teen Romantic Comedy SNAFU](https://anilist.co/anime/14813) (00:26, 25 June 2024)
--   📖 Read chapter 5 of [Is Love the Answer?](https://anilist.co/manga/140324) (10:15, 24 June 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
