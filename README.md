@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [MASHLE: MAGIC AND MUSCLES](https://anilist.co/anime/151801) (12:42, 20 July 2024)
 -   📺 Watched episode 2 - 8 of [Chainsaw Man](https://anilist.co/anime/127230) (17:28, 17 July 2024)
 -   📺 Plans to watch [2.5 Dimensional Seduction](https://anilist.co/anime/158559) (13:08, 17 July 2024)
 -   📺 Watched episode 1 of [ZOMBIE LAND SAGA REVENGE](https://anilist.co/anime/110733) (19:55, 16 July 2024)
 -   📺 Plans to watch [Gushing Over Magical Girls](https://anilist.co/anime/162780) (17:32, 16 July 2024)
--   📺 Watched episode 4 of [K-ON! Season 2](https://anilist.co/anime/7791) (15:33, 02 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
