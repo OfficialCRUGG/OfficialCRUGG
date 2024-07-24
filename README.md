@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (18:06, 24 July 2024)
 -   📺 Watched episode 9 - 11 of [Chainsaw Man](https://anilist.co/anime/127230) (17:39, 24 July 2024)
 -   📺 Plans to watch [Just Because!](https://anilist.co/anime/98820) (21:27, 23 July 2024)
 -   📺 Plans to watch [Akame ga Kill!](https://anilist.co/anime/20613) (21:26, 23 July 2024)
 -   📺 Plans to watch [Days with My Stepsister](https://anilist.co/anime/152681) (17:13, 22 July 2024)
--   📺 Plans to watch [Azumanga Daioh](https://anilist.co/anime/66) (17:51, 21 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
