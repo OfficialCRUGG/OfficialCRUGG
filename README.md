@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [YuruYuri](https://anilist.co/anime/10495) (22:19, 26 July 2024)
 -   📺 Plans to watch [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (01:53, 25 July 2024)
 -   📺 Watched episode 1 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (23:47, 24 July 2024)
 -   📺 Completed [Chainsaw Man](https://anilist.co/anime/127230) (18:06, 24 July 2024)
 -   📺 Watched episode 9 - 11 of [Chainsaw Man](https://anilist.co/anime/127230) (17:39, 24 July 2024)
--   📺 Plans to watch [Just Because!](https://anilist.co/anime/98820) (21:27, 23 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
