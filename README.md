@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (19:57, 31 July 2024)
 -   📺 Plans to watch [The Case Study of Vanitas](https://anilist.co/anime/131646) (03:42, 31 July 2024)
 -   📺 Watched episode 1 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (19:52, 29 July 2024)
 -   📺 Plans to watch [YuruYuri](https://anilist.co/anime/10495) (22:19, 26 July 2024)
 -   📺 Plans to watch [The Angel Next Door Spoils Me Rotten](https://anilist.co/anime/143338) (01:53, 25 July 2024)
--   📺 Watched episode 1 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (23:47, 24 July 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
