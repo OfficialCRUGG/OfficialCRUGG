@@ -21,7 +21,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 3 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (02:45, 04 August 2024)
+-   📺 Watched episode 1 - 4 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (03:12, 04 August 2024)
 -   📺 Watched episode 6 - 7 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (18:53, 02 August 2024)
 -   📺 Watched episode 2 - 5 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (19:38, 01 August 2024)
 -   📺 Watched episode 2 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (19:57, 31 July 2024)
