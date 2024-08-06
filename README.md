@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched 13 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (13:04, 06 August 2024)
 -   📺 Rewatched episode 12 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (12:04, 06 August 2024)
 -   📺 Plans to watch [Makeine: Too Many Losing Heroines!](https://anilist.co/anime/171457) (00:57, 06 August 2024)
 -   📺 Watched episode 8 - 11 of [Rascal Does Not Dream of Bunny Girl Senpai](https://anilist.co/anime/101291) (21:16, 05 August 2024)
 -   📺 Watched episode 5 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (19:47, 04 August 2024)
--   📺 Plans to watch [Wandering Witch: The Journey of Elaina](https://anilist.co/anime/112609) (18:49, 04 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
