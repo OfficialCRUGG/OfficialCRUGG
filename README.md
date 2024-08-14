@@ -36,7 +36,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 August 2024 - To: 11 August 2024
+From: 05 August 2024 - To: 12 August 2024
 
 Svelte       1 hr            █████████▓░░░░░░░░░░░░░░░   39.31 %
 YAML         40 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.15 %
