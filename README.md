@@ -21,11 +21,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (19:26, 21 August 2024)
 -   📺 Rewatched episode 4 - 5 of [Horimiya](https://anilist.co/anime/124080) (21:19, 17 August 2024)
 -   📺 Rewatched episode 3 of [Horimiya](https://anilist.co/anime/124080) (18:02, 17 August 2024)
 -   📺 Rewatched episode 1 - 2 of [Horimiya](https://anilist.co/anime/124080) (20:57, 15 August 2024)
 -   📺 Plans to watch [Unnamed Memory](https://anilist.co/anime/158709) (12:15, 13 August 2024)
--   📺 Rewatched 1 of [Rascal Does Not Dream of a Dreaming Girl](https://anilist.co/anime/104157) (19:09, 10 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
