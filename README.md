@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Interspecies Reviewers](https://anilist.co/anime/110270) (03:06, 31 August 2024)
+-   📺 Watched episode 1 of [Interspecies Reviewers](https://anilist.co/anime/110270) (03:06, 31 August 2024)
 -   📺 Watched episode 6 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (19:29, 29 August 2024)
 -   📖 Read chapter 1 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (20:56, 25 August 2024)
 -   📖 Plans to read [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (20:27, 25 August 2024)
--   📖 Completed [Is Love the Answer?](https://anilist.co/manga/140324) (20:21, 25 August 2024)
--   📺 Watched episode 5 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (04:09, 23 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
