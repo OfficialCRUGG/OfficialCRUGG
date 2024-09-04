@@ -77,7 +77,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 August 2024 - To: 01 September 2024
+From: 26 August 2024 - To: 02 September 2024
 
 CSV               38 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.20 %
 Caddyfile         27 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
