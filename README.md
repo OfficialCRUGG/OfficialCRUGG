@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 8 - 10 of [Classroom of the Elite](https://anilist.co/anime/98659) (05:26, 16 September 2024)
 -   📺 Rewatched episode 4 - 7 of [Classroom of the Elite](https://anilist.co/anime/98659) (07:06, 15 September 2024)
 -   📺 Watched episode 7 - 8 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (05:16, 15 September 2024)
 -   📺 Rewatched episode 1 - 3 of [Classroom of the Elite](https://anilist.co/anime/98659) (01:15, 10 September 2024)
 -   📺 Paused watching [Interspecies Reviewers](https://anilist.co/anime/110270) (03:06, 31 August 2024)
--   📺 Watched episode 1 of [Interspecies Reviewers](https://anilist.co/anime/110270) (03:06, 31 August 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
