@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (18:53, 19 September 2024)
 -   📺 Rewatched episode 2 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (11:38, 19 September 2024)
 -   📺 Plans to watch [365 Days to the Wedding](https://anilist.co/anime/165790) (19:17, 18 September 2024)
 -   📺 Plans to watch [Tokidoki Bosotto Russiago de Dereru Tonari no Alya-san Season 2](https://anilist.co/anime/181641) (19:04, 18 September 2024)
 -   📺 Rewatched 12 of [Classroom of the Elite](https://anilist.co/anime/98659) (04:18, 17 September 2024)
--   📺 Rewatched episode 11 of [Classroom of the Elite](https://anilist.co/anime/98659) (03:53, 17 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
