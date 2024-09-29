@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 8 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (21:49, 29 September 2024)
 -   📺 Watched episode 4 - 7 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (17:13, 29 September 2024)
 -   📺 Watched episode 2 - 3 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (01:45, 29 September 2024)
 -   📺 Rewatched 13 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (01:49, 28 September 2024)
 -   📺 Rewatched episode 11 - 12 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (14:29, 27 September 2024)
--   📺 Watched episode 10 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (01:30, 26 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
