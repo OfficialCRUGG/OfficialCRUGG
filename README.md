@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (15:46, 30 September 2024)
 -   📺 Plans to watch [The Dangers in My Heart Season 2](https://anilist.co/anime/166216) (04:25, 30 September 2024)
 -   📺 Plans to watch [Boku no Kokoro no Yabai Yatsu Movie](https://anilist.co/anime/182317) (04:24, 30 September 2024)
 -   📺 Watched episode 8 - 10 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (22:50, 29 September 2024)
 -   📺 Watched episode 4 - 7 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (17:13, 29 September 2024)
--   📺 Watched episode 2 - 3 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (01:45, 29 September 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
