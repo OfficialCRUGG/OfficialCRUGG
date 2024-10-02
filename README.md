@@ -62,7 +62,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 1 - 2 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (15:43, 02 October 2024)
+-   📺 Watched episode 1 - 3 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (17:59, 02 October 2024)
 -   📺 Paused watching [ZOMBIE LAND SAGA REVENGE](https://anilist.co/anime/110733) (14:46, 02 October 2024)
 -   📺 Paused watching [Charlotte](https://anilist.co/anime/20997) (14:46, 02 October 2024)
 -   📺 Plans to watch [Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 4th Season](https://anilist.co/anime/180745) (17:59, 30 September 2024)
