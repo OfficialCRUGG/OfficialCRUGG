@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (23:51, 03 October 2024)
 -   📺 Watched episode 7 - 9 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (18:48, 03 October 2024)
 -   📺 Watched episode 11 of [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (20:37, 02 October 2024)
 -   📺 Watched episode 1 - 6 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (19:14, 02 October 2024)
 -   📺 Paused watching [ZOMBIE LAND SAGA REVENGE](https://anilist.co/anime/110733) (14:46, 02 October 2024)
--   📺 Paused watching [Charlotte](https://anilist.co/anime/20997) (14:46, 02 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
