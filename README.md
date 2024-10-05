@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 16 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (05:39, 05 October 2024)
 -   📺 Watched episode 14 - 15 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (19:32, 04 October 2024)
 -   📺 Watched episode 12 - 13 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (09:17, 04 October 2024)
 -   📺 Watched episode 11 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (05:34, 04 October 2024)
 -   📺 Watched episode 10 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (23:51, 03 October 2024)
--   📺 Watched episode 7 - 9 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (18:48, 03 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
