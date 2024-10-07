@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Place to Place](https://anilist.co/anime/12291) (14:33, 07 October 2024)
 -   📺 Watched episode 6 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (00:59, 07 October 2024)
 -   📺 Watched episode 1 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (00:29, 07 October 2024)
 -   📺 Watched episode 1 of [DAN DA DAN](https://anilist.co/anime/171018) (23:47, 06 October 2024)
 -   📺 Watched episode 18 - 19 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (17:40, 06 October 2024)
--   📺 Plans to watch [Ookami to Koushinryou: MERCHANT MEETS THE WISE WOLF 2nd Season](https://anilist.co/anime/181951) (15:44, 06 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
