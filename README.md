@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 of [DAN DA DAN](https://anilist.co/anime/171018) (00:37, 12 October 2024)
 -   📺 Plans to watch [Blue Box](https://anilist.co/anime/170942) (13:46, 10 October 2024)
 -   📺 Completed [Alya Sometimes Hides Her Feelings in Russian](https://anilist.co/anime/162804) (20:11, 09 October 2024)
 -   📺 Watched episode 7 - 8 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (21:12, 07 October 2024)
 -   📺 Plans to watch [Place to Place](https://anilist.co/anime/12291) (14:33, 07 October 2024)
--   📺 Watched episode 6 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (00:59, 07 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
