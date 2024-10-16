@@ -62,7 +62,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 of [Charlotte](https://anilist.co/anime/20997) (16:55, 16 October 2024)
+-   📺 Watched episode 6 - 9 of [Charlotte](https://anilist.co/anime/20997) (18:02, 16 October 2024)
 -   📺 Watched episode 2 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (18:53, 12 October 2024)
 -   📺 Watched episode 2 of [DAN DA DAN](https://anilist.co/anime/171018) (00:37, 12 October 2024)
 -   📺 Plans to watch [Blue Box](https://anilist.co/anime/170942) (13:46, 10 October 2024)
