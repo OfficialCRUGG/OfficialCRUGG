@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📖 Read chapter 2 of [The Guy She Was Interested In Wasn't a Guy at All](https://anilist.co/manga/149544) (14:59, 23 October 2024)
+-   📺 Watched episode 3 of [DAN DA DAN](https://anilist.co/anime/171018) (14:58, 23 October 2024)
 -   📺 Completed [The Tunnel to Summer, the Exit of Goodbyes](https://anilist.co/anime/142769) (16:48, 20 October 2024)
 -   📺 Completed [Charlotte](https://anilist.co/anime/20997) (19:42, 16 October 2024)
 -   📺 Watched episode 6 - 12 of [Charlotte](https://anilist.co/anime/20997) (19:18, 16 October 2024)
--   📺 Watched episode 2 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (18:53, 12 October 2024)
--   📺 Watched episode 2 of [DAN DA DAN](https://anilist.co/anime/171018) (00:37, 12 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
