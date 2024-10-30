@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 1 - 2 of [Call of the Night](https://anilist.co/anime/141391) (22:39, 30 October 2024)
 -   📺 Watched episode 4 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (10:03, 27 October 2024)
 -   📺 Watched episode 4 of [DAN DA DAN](https://anilist.co/anime/171018) (05:08, 26 October 2024)
 -   📺 Watched episode 3 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (15:25, 23 October 2024)
 -   📺 Watched episode 3 of [DAN DA DAN](https://anilist.co/anime/171018) (14:58, 23 October 2024)
--   📺 Completed [The Tunnel to Summer, the Exit of Goodbyes](https://anilist.co/anime/142769) (16:48, 20 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
