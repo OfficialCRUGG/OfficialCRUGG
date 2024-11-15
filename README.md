@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [K-ON! Season 2](https://anilist.co/anime/7791) (05:54, 15 November 2024)
 -   📺 Plans to watch [Delicious in Dungeon](https://anilist.co/anime/153518) (08:23, 13 November 2024)
 -   📺 Rewatched episode 1 - 2 of [Call of the Night](https://anilist.co/anime/141391) (22:39, 30 October 2024)
 -   📺 Watched episode 4 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (10:03, 27 October 2024)
 -   📺 Watched episode 4 of [DAN DA DAN](https://anilist.co/anime/171018) (05:08, 26 October 2024)
--   📺 Watched episode 3 of [Ranma1/2 (2024)](https://anilist.co/anime/178533) (15:25, 23 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
