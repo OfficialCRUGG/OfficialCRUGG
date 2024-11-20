@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 3 - 4 of [Call of the Night](https://anilist.co/anime/141391) (20:01, 20 November 2024)
 -   📺 Watched episode 7 of [K-ON! Season 2](https://anilist.co/anime/7791) (13:14, 19 November 2024)
 -   📺 Watched episode 6 of [K-ON! Season 2](https://anilist.co/anime/7791) (16:16, 18 November 2024)
 -   📺 Watched episode 5 of [K-ON! Season 2](https://anilist.co/anime/7791) (05:54, 15 November 2024)
 -   📺 Plans to watch [Delicious in Dungeon](https://anilist.co/anime/153518) (08:23, 13 November 2024)
--   📺 Rewatched episode 1 - 2 of [Call of the Night](https://anilist.co/anime/141391) (22:39, 30 October 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
