@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (15:00, 25 November 2024)
 -   📺 Plans to watch [My Happy Marriage](https://anilist.co/anime/147103) (20:21, 22 November 2024)
 -   📺 Plans to watch [Kizuna no Allele](https://anilist.co/anime/156896) (19:54, 22 November 2024)
 -   📺 Rewatched episode 3 - 4 of [Call of the Night](https://anilist.co/anime/141391) (20:01, 20 November 2024)
 -   📺 Watched episode 7 of [K-ON! Season 2](https://anilist.co/anime/7791) (13:14, 19 November 2024)
--   📺 Watched episode 6 of [K-ON! Season 2](https://anilist.co/anime/7791) (16:16, 18 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
