@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [The Vexations of a Shut-In Vampire Princess](https://anilist.co/anime/159808) (22:59, 29 November 2024)
 -   📺 Watched episode 9 of [K-ON! Season 2](https://anilist.co/anime/7791) (04:37, 28 November 2024)
 -   📺 Watched episode 8 of [K-ON! Season 2](https://anilist.co/anime/7791) (02:11, 27 November 2024)
 -   📺 Plans to watch [Ninja to Koroshiya no Futarigurashi](https://anilist.co/anime/177120) (17:11, 26 November 2024)
 -   📺 Plans to watch [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (15:00, 25 November 2024)
--   📺 Plans to watch [My Happy Marriage](https://anilist.co/anime/147103) (20:21, 22 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
