@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [Oshi No Ko](https://anilist.co/anime/150672) (08:36, 01 December 2024)
 -   📺 Watched episode 2 - 4 of [Oshi No Ko](https://anilist.co/anime/150672) (23:53, 30 November 2024)
 -   📺 Watched episode 1 of [Oshi No Ko](https://anilist.co/anime/150672) (05:14, 30 November 2024)
 -   📺 Plans to watch [The Vexations of a Shut-In Vampire Princess](https://anilist.co/anime/159808) (22:59, 29 November 2024)
 -   📺 Watched episode 9 of [K-ON! Season 2](https://anilist.co/anime/7791) (04:37, 28 November 2024)
--   📺 Watched episode 8 of [K-ON! Season 2](https://anilist.co/anime/7791) (02:11, 27 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
