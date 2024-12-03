@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [[Oshi no Ko] 3rd Season](https://anilist.co/anime/182587) (04:38, 03 December 2024)
+-   📺 Plans to watch [Oshi no Ko Season 2](https://anilist.co/anime/166531) (04:38, 03 December 2024)
 -   📺 Watched episode 6 - 9 of [Oshi No Ko](https://anilist.co/anime/150672) (23:09, 02 December 2024)
 -   📺 Watched episode 5 of [Oshi No Ko](https://anilist.co/anime/150672) (08:36, 01 December 2024)
 -   📺 Watched episode 2 - 4 of [Oshi No Ko](https://anilist.co/anime/150672) (23:53, 30 November 2024)
--   📺 Watched episode 1 of [Oshi No Ko](https://anilist.co/anime/150672) (05:14, 30 November 2024)
--   📺 Plans to watch [The Vexations of a Shut-In Vampire Princess](https://anilist.co/anime/159808) (22:59, 29 November 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
