@@ -62,7 +62,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Watched episode 6 - 8 of [Oshi No Ko](https://anilist.co/anime/150672) (22:32, 02 December 2024)
+-   📺 Watched episode 6 - 9 of [Oshi No Ko](https://anilist.co/anime/150672) (23:09, 02 December 2024)
 -   📺 Watched episode 5 of [Oshi No Ko](https://anilist.co/anime/150672) (08:36, 01 December 2024)
 -   📺 Watched episode 2 - 4 of [Oshi No Ko](https://anilist.co/anime/150672) (23:53, 30 November 2024)
 -   📺 Watched episode 1 of [Oshi No Ko](https://anilist.co/anime/150672) (05:14, 30 November 2024)
