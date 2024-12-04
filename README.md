@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [DAN DA DAN](https://anilist.co/anime/171018) (17:53, 04 December 2024)
 -   📺 Watched episode 5 - 6 of [DAN DA DAN](https://anilist.co/anime/171018) (06:48, 04 December 2024)
 -   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (05:34, 03 December 2024)
 -   📺 Watched episode 10 of [Oshi No Ko](https://anilist.co/anime/150672) (05:10, 03 December 2024)
 -   📺 Plans to watch [[Oshi no Ko] 3rd Season](https://anilist.co/anime/182587) (04:38, 03 December 2024)
--   📺 Plans to watch [Oshi no Ko Season 2](https://anilist.co/anime/166531) (04:38, 03 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
