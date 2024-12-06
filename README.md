@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 10 of [DAN DA DAN](https://anilist.co/anime/171018) (06:27, 06 December 2024)
 -   📺 Watched episode 8 - 9 of [DAN DA DAN](https://anilist.co/anime/171018) (08:11, 05 December 2024)
 -   📺 Plans to watch [Hana wa Saku, Shura no Gotoku](https://anilist.co/anime/178022) (19:07, 04 December 2024)
 -   📺 Watched episode 7 of [DAN DA DAN](https://anilist.co/anime/171018) (17:53, 04 December 2024)
 -   📺 Watched episode 5 - 6 of [DAN DA DAN](https://anilist.co/anime/171018) (06:48, 04 December 2024)
--   📺 Completed [Oshi No Ko](https://anilist.co/anime/150672) (05:34, 03 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
