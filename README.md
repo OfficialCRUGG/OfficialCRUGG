@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 of [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (22:08, 15 December 2024)
 -   📺 Plans to watch [Penguin Highway](https://anilist.co/anime/101249) (22:20, 14 December 2024)
 -   📺 Watched episode 5 - 6 of [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (20:26, 14 December 2024)
 -   📺 Plans to watch [BEYBLADE X](https://anilist.co/anime/165159) (10:11, 14 December 2024)
 -   📺 Watched episode 3 - 4 of [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (18:49, 13 December 2024)
--   📺 Watched episode 2 of [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (02:31, 13 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
