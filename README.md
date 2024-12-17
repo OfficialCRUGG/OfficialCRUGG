@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 2 - 3 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (10:06, 17 December 2024)
 -   📺 Watched episode 1 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (01:30, 17 December 2024)
 -   📺 Completed [Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel)](https://anilist.co/anime/16934) (01:29, 17 December 2024)
 -   📺 Completed [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (07:25, 16 December 2024)
 -   📺 Watched episode 10 - 11 of [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (06:59, 16 December 2024)
--   📺 Watched episode 7 - 9 of [Love, Chunibyo & Other Delusions](https://anilist.co/anime/14741) (23:10, 15 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
