@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Super Cub](https://anilist.co/anime/113418) (11:23, 19 December 2024)
+-   📺 Plans to watch [Skip and Loafer](https://anilist.co/anime/141911) (11:23, 19 December 2024)
+-   📺 Rewatched episode 1 - 3 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (11:23, 19 December 2024)
 -   📺 Watched episode 5 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (03:27, 18 December 2024)
 -   📺 Watched episode 4 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (22:21, 17 December 2024)
--   📺 Watched episode 2 - 3 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (10:06, 17 December 2024)
--   📺 Watched episode 1 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (01:30, 17 December 2024)
--   📺 Completed [Love, Chunibyo & Other Delusions: Glimmering...Explosive Festival (Slapstick Noel)](https://anilist.co/anime/16934) (01:29, 17 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
