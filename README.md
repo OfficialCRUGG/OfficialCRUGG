@@ -62,7 +62,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
--   📺 Rewatched episode 4 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (05:38, 21 December 2024)
+-   📺 Rewatched episode 4 - 7 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (06:50, 21 December 2024)
 -   📺 Watched episode 7 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (04:10, 21 December 2024)
 -   📺 Rewatched episode 5 of [Call of the Night](https://anilist.co/anime/141391) (12:45, 20 December 2024)
 -   📺 Watched episode 10 of [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (05:21, 20 December 2024)
