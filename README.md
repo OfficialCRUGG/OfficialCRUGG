@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched episode 8 - 9 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (15:47, 25 December 2024)
 -   📺 Plans to watch [Summer Pockets](https://anilist.co/anime/143200) (12:47, 25 December 2024)
 -   📺 Watched episode 10 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (08:04, 25 December 2024)
 -   📺 Watched episode 8 - 9 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (14:59, 22 December 2024)
 -   📺 Rewatched episode 4 - 7 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (06:50, 21 December 2024)
--   📺 Watched episode 7 of [Love, Chunibyo & Other Delusions - Heart Throb -](https://anilist.co/anime/18671) (04:10, 21 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
