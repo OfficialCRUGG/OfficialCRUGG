@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (00:07, 02 January 2025)
+-   📺 Watched episode 11 of [DAN DA DAN](https://anilist.co/anime/171018) (00:07, 02 January 2025)
 -   📺 Watched episode 1 of [BEYBLADE X](https://anilist.co/anime/165159) (10:29, 30 December 2024)
 -   📺 Rewatched 13 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (10:00, 26 December 2024)
 -   📺 Rewatched episode 10 - 12 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (10:00, 26 December 2024)
--   📺 Rewatched episode 8 - 9 of [Classroom of the Elite Season 2](https://anilist.co/anime/145545) (15:47, 25 December 2024)
--   📺 Plans to watch [Summer Pockets](https://anilist.co/anime/143200) (12:47, 25 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
