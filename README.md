@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 11 - 22 of [Pokémon](https://anilist.co/anime/527) (23:01, 05 January 2025)
 -   📺 Watched episode 9 - 10 of [Pokémon](https://anilist.co/anime/527) (12:24, 05 January 2025)
 -   📺 Watched episode 8 of [Pokémon](https://anilist.co/anime/527) (19:38, 04 January 2025)
 -   📺 Completed [DAN DA DAN](https://anilist.co/anime/171018) (00:07, 02 January 2025)
 -   📺 Watched episode 11 of [DAN DA DAN](https://anilist.co/anime/171018) (00:07, 02 January 2025)
--   📺 Watched episode 1 of [BEYBLADE X](https://anilist.co/anime/165159) (10:29, 30 December 2024)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
