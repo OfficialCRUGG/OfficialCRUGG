@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (02:02, 09 January 2025)
 -   📺 Watched episode 2 of [BEYBLADE X](https://anilist.co/anime/165159) (23:59, 08 January 2025)
 -   📺 Plans to watch [Lonely Castle in the Mirror](https://anilist.co/anime/145739) (19:32, 08 January 2025)
 -   📺 Watched episode 23 - 27 of [Pokémon](https://anilist.co/anime/527) (00:15, 07 January 2025)
 -   📺 Watched episode 11 - 22 of [Pokémon](https://anilist.co/anime/527) (23:01, 05 January 2025)
--   📺 Watched episode 9 - 10 of [Pokémon](https://anilist.co/anime/527) (12:24, 05 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
