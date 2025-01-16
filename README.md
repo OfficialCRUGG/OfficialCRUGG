@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 - 6 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (18:08, 16 January 2025)
 -   📺 Watched episode 4 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (01:02, 14 January 2025)
 -   📺 Watched episode 1 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (22:53, 13 January 2025)
 -   📺 Watched episode 2 - 3 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (03:20, 13 January 2025)
 -   📺 Watched episode 1 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (16:44, 10 January 2025)
--   📺 Plans to watch [I'm Getting Married to a Girl I Hate in My Class](https://anilist.co/anime/178462) (02:02, 09 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
