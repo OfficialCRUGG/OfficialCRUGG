@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (15:10, 06 February 2025)
 -   📺 Rewatched episode 6 of [Call of the Night](https://anilist.co/anime/141391) (16:58, 05 February 2025)
 -   📺 Completed [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (07:06, 31 January 2025)
 -   📺 Watched episode 8 - 11 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (07:06, 31 January 2025)
 -   📺 Watched episode 2 - 3 of [Classroom of the Elite Season 3](https://anilist.co/anime/146066) (02:00, 24 January 2025)
--   📺 Watched episode 7 of [Jellyfish Can’t Swim in the Night](https://anilist.co/anime/163078) (02:43, 19 January 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
