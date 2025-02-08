@@ -77,7 +77,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2025 - To: 05 February 2025
+From: 30 January 2025 - To: 06 February 2025
 
 Markdown      5 hrs 59 mins   ████████████▒░░░░░░░░░░░░   49.61 %
 Svelte        2 hrs 2 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
