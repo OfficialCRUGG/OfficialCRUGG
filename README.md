@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 5 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:13, 14 February 2025)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (16:29, 13 February 2025)
 -   📺 Watched episode 5 - 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (16:29, 13 February 2025)
 -   📺 Watched episode 3 - 4 of [My Dress-Up Darling](https://anilist.co/anime/132405) (08:38, 08 February 2025)
 -   📺 Watched episode 2 of [My Dress-Up Darling](https://anilist.co/anime/132405) (22:27, 07 February 2025)
--   📺 Plans to watch [Tomo-chan Is a Girl!](https://anilist.co/anime/151806) (15:10, 06 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
