@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Rewatched 1 of [Josee, the Tiger and the Fish](https://anilist.co/anime/113596) (22:08, 22 February 2025)
 -   📺 Watched episode 9 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (04:07, 19 February 2025)
 -   📺 Watched episode 6 - 8 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (20:34, 15 February 2025)
 -   📺 Watched episode 5 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (16:13, 14 February 2025)
 -   📺 Completed [My Dress-Up Darling](https://anilist.co/anime/132405) (16:29, 13 February 2025)
--   📺 Watched episode 5 - 11 of [My Dress-Up Darling](https://anilist.co/anime/132405) (16:29, 13 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
