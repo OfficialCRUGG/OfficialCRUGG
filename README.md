@@ -77,7 +77,7 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2025 - To: 19 March 2025
+From: 13 March 2025 - To: 20 March 2025
 
 Svelte       2 hrs 23 mins   ███████████████████▒░░░░░   77.70 %
 TypeScript   19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
