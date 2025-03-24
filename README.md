@@ -62,11 +62,11 @@ I'm a 18-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Paused watching [Ranma1/2 (2024)](https://anilist.co/anime/178533) (01:20, 24 March 2025)
 -   📺 Completed [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (01:00, 09 March 2025)
 -   📺 Watched episode 20 - 24 of [Spice and Wolf: MERCHANT MEETS THE WISE WOLF](https://anilist.co/anime/145728) (01:00, 09 March 2025)
 -   📺 Completed [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (20:31, 08 March 2025)
 -   📺 Rewatched 1 of [Josee, the Tiger and the Fish](https://anilist.co/anime/113596) (22:08, 22 February 2025)
--   📺 Watched episode 9 - 11 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You](https://anilist.co/anime/162694) (04:07, 19 February 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
