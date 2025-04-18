@@ -77,7 +77,7 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 April 2025 - To: 15 April 2025
+From: 09 April 2025 - To: 16 April 2025
 
 HTML         1 hr 10 mins    █████████████▓░░░░░░░░░░░   55.29 %
 Astro        33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.40 %
