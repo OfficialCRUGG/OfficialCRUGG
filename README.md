@@ -77,7 +77,7 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 April 2025 - To: 26 April 2025
+From: 20 April 2025 - To: 27 April 2025
 
 TypeScript   3 hrs 46 mins   ███████████████▓░░░░░░░░░   63.26 %
 Bash         35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
