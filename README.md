@@ -77,7 +77,7 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 April 2025 - To: 03 May 2025
+From: 27 April 2025 - To: 04 May 2025
 
 Svelte        2 hrs 53 mins   ████████▓░░░░░░░░░░░░░░░░   35.23 %
 Astro         2 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.78 %
