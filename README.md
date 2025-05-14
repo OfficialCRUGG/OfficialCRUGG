@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 - 6 of [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (23:26, 13 May 2025)
 -   📺 Watched episode 15 of [The Apothecary Diaries](https://anilist.co/anime/161645) (21:03, 05 May 2025)
 -   📺 Watched episode 3 of [WITCH WATCH](https://anilist.co/anime/180367) (13:25, 05 May 2025)
 -   📺 Watched episode 2 of [WITCH WATCH](https://anilist.co/anime/180367) (10:54, 28 April 2025)
 -   📺 Completed [The Colors Within](https://anilist.co/anime/158166) (20:18, 27 April 2025)
--   📺 Rewatched episode 2 - 4 of [Oshi No Ko](https://anilist.co/anime/150672) (21:47, 25 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
