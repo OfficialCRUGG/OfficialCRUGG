@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 3 - 4 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (16:40, 15 May 2025)
 -   📺 Watched episode 2 of [The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You Season 2](https://anilist.co/anime/172258) (23:19, 14 May 2025)
 -   📺 Watched episode 4 - 6 of [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (23:26, 13 May 2025)
 -   📺 Watched episode 15 of [The Apothecary Diaries](https://anilist.co/anime/161645) (21:03, 05 May 2025)
 -   📺 Watched episode 3 of [WITCH WATCH](https://anilist.co/anime/180367) (13:25, 05 May 2025)
--   📺 Watched episode 2 of [WITCH WATCH](https://anilist.co/anime/180367) (10:54, 28 April 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
