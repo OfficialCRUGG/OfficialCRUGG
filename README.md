@@ -77,13 +77,13 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 May 2025 - To: 16 May 2025
+From: 10 May 2025 - To: 17 May 2025
 
-Svelte        15 hrs 58 mins  ██████████████▓░░░░░░░░░░   58.22 %
-TypeScript    8 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.49 %
-CSS           52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.16 %
-Markdown      48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
-TSV           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+Svelte        15 hrs 47 mins  ██████████████▓░░░░░░░░░░   58.39 %
+TypeScript    8 hrs 13 mins   ███████▓░░░░░░░░░░░░░░░░░   30.42 %
+CSS           1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 %
+Markdown      48 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+TSV           45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
 ```
 
 <!--END_SECTION:waka-->
