@@ -77,7 +77,7 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 June 2025 - To: 09 June 2025
+From: 03 June 2025 - To: 10 June 2025
 
 Markdown     2 hrs 16 mins   ████████████████████▓░░░░   82.06 %
 TypeScript   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
