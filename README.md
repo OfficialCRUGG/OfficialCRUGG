@@ -77,7 +77,7 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 June 2025 - To: 21 June 2025
+From: 15 June 2025 - To: 22 June 2025
 
 Ren'Py             6 hrs 50 mins   █████████▒░░░░░░░░░░░░░░░   37.38 %
 Svelte             5 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 %
