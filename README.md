@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [My Hero Academia: Vigilantes Season 2](https://anilist.co/anime/195322) (09:50, 01 July 2025)
+-   📺 Completed [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (09:50, 01 July 2025)
+-   📺 Watched episode 8 - 12 of [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (09:50, 01 July 2025)
+-   📺 Watched episode 11 of [WITCH WATCH](https://anilist.co/anime/180367) (09:49, 01 July 2025)
 -   📺 Watched episode 8 - 10 of [WITCH WATCH](https://anilist.co/anime/180367) (13:27, 25 June 2025)
--   📺 Watched episode 7 of [WITCH WATCH](https://anilist.co/anime/180367) (17:54, 15 June 2025)
--   📺 Watched episode 2 of [Hyouka](https://anilist.co/anime/12189) (23:56, 30 May 2025)
--   📺 Watched episode 7 of [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (20:08, 25 May 2025)
--   📺 Watched episode 4 - 6 of [WITCH WATCH](https://anilist.co/anime/180367) (20:06, 25 May 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
