@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [Her Blue Sky](https://anilist.co/anime/108577) (15:10, 08 July 2025)
 -   📺 Watched episode 7 - 8 of [Insomniacs After School](https://anilist.co/anime/143653) (15:16, 03 July 2025)
 -   📺 Watched episode 2 - 6 of [Insomniacs After School](https://anilist.co/anime/143653) (19:52, 02 July 2025)
 -   📺 Watched episode 1 of [Insomniacs After School](https://anilist.co/anime/143653) (00:45, 02 July 2025)
 -   📺 Plans to watch [My Hero Academia: Vigilantes Season 2](https://anilist.co/anime/195322) (09:50, 01 July 2025)
--   📺 Completed [My Hero Academia: Vigilantes](https://anilist.co/anime/185736) (09:50, 01 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
