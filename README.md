@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 - 8 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (16:54, 23 July 2025)
 -   📺 Watched episode 12 - 14 of [WITCH WATCH](https://anilist.co/anime/180367) (01:58, 22 July 2025)
 -   📺 Watched episode 5 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (01:57, 22 July 2025)
 -   📺 Plans to watch [Carole & Tuesday](https://anilist.co/anime/101281) (19:16, 21 July 2025)
 -   📺 Watched episode 4 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (03:03, 19 July 2025)
--   📺 Watched episode 3 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (17:38, 17 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
