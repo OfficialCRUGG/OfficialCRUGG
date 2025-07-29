@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 of [WITCH WATCH](https://anilist.co/anime/180367) (03:12, 29 July 2025)
+-   📺 Watched episode 16 - 18 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (03:12, 29 July 2025)
 -   📺 Watched episode 14 - 15 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (17:18, 27 July 2025)
 -   📺 Paused watching [BEYBLADE X](https://anilist.co/anime/165159) (03:23, 27 July 2025)
 -   📺 Watched episode 11 - 13 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (03:23, 27 July 2025)
--   📺 Paused watching [Pokémon](https://anilist.co/anime/527) (00:30, 24 July 2025)
--   📺 Paused watching [Hyouka](https://anilist.co/anime/12189) (00:29, 24 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
