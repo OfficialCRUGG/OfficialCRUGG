@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 9 of [Insomniacs After School](https://anilist.co/anime/143653) (22:47, 01 August 2025)
 -   📺 Paused watching [The Apothecary Diaries](https://anilist.co/anime/161645) (02:22, 01 August 2025)
 -   📺 Paused watching [Frieren: Beyond Journey’s End](https://anilist.co/anime/154587) (02:22, 01 August 2025)
 -   📺 Completed [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (01:35, 30 July 2025)
 -   📺 Watched episode 19 - 22 of [Welcome to Demon School! Iruma-kun](https://anilist.co/anime/107693) (01:35, 30 July 2025)
--   📺 Watched episode 15 of [WITCH WATCH](https://anilist.co/anime/180367) (03:12, 29 July 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
