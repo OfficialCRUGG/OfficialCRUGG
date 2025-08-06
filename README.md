@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 4 of [Rent-a-Girlfriend Season 2](https://anilist.co/anime/124410) (02:28, 06 August 2025)
 -   📺 Completed [Rent-a-Girlfriend](https://anilist.co/anime/113813) (00:30, 06 August 2025)
 -   📺 Watched episode 10 - 11 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (00:30, 06 August 2025)
 -   📺 Watched episode 6 - 9 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (15:30, 05 August 2025)
 -   📺 Watched episode 1 - 5 of [Rent-a-Girlfriend](https://anilist.co/anime/113813) (03:21, 05 August 2025)
--   📺 Completed [Insomniacs After School](https://anilist.co/anime/143653) (21:11, 04 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
