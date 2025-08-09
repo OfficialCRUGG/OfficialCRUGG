@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:36, 09 August 2025)
 -   📺 Completed [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (12:56, 08 August 2025)
 -   📺 Watched episode 11 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (12:56, 08 August 2025)
 -   📺 Watched episode 4 - 10 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (02:49, 08 August 2025)
 -   📺 Watched episode 3 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (15:51, 07 August 2025)
--   📺 Watched episode 1 - 2 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (02:22, 07 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
