@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 1 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (04:03, 13 August 2025)
 -   📺 Watched episode 17 of [WITCH WATCH](https://anilist.co/anime/180367) (01:13, 11 August 2025)
 -   📺 Plans to watch [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:36, 09 August 2025)
 -   📺 Completed [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (12:56, 08 August 2025)
 -   📺 Watched episode 11 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (12:56, 08 August 2025)
--   📺 Watched episode 4 - 10 of [Rent-a-Girlfriend Season 3](https://anilist.co/anime/154745) (02:49, 08 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
