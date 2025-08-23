@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Plans to watch [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (14:18, 23 August 2025)
 -   📖 Plans to read [Inside Mari](https://anilist.co/manga/66267) (23:37, 19 August 2025)
 -   📺 Watched episode 3 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (19:42, 16 August 2025)
 -   📺 Watched episode 1 - 2 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (04:22, 13 August 2025)
 -   📺 Watched episode 17 of [WITCH WATCH](https://anilist.co/anime/180367) (01:13, 11 August 2025)
--   📺 Plans to watch [A Place Further Than the Universe](https://anilist.co/anime/99426) (00:36, 09 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
