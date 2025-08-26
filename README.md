@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 7 - 8 of [Case Closed](https://anilist.co/anime/235) (18:24, 26 August 2025)
 -   📺 Watched episode 1 - 6 of [Case Closed](https://anilist.co/anime/235) (15:00, 26 August 2025)
 -   📺 Plans to watch [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (14:18, 23 August 2025)
 -   📖 Plans to read [Inside Mari](https://anilist.co/manga/66267) (23:37, 19 August 2025)
 -   📺 Watched episode 3 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (19:42, 16 August 2025)
--   📺 Watched episode 1 - 2 of [Dealing with Mikadono Sisters Is a Breeze](https://anilist.co/anime/178886) (04:22, 13 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
