@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 13 of [Case Closed](https://anilist.co/anime/235) (18:20, 27 August 2025)
 -   📺 Watched episode 11 - 12 of [Case Closed](https://anilist.co/anime/235) (12:57, 27 August 2025)
 -   📺 Watched episode 9 - 10 of [Case Closed](https://anilist.co/anime/235) (04:15, 27 August 2025)
 -   📺 Watched episode 7 - 8 of [Case Closed](https://anilist.co/anime/235) (18:24, 26 August 2025)
 -   📺 Watched episode 1 - 6 of [Case Closed](https://anilist.co/anime/235) (15:00, 26 August 2025)
--   📺 Plans to watch [My Love Story with Yamada-kun at Lv999](https://anilist.co/anime/154965) (14:18, 23 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
