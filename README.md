@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 15 of [Case Closed](https://anilist.co/anime/235) (13:34, 28 August 2025)
 -   📺 Watched episode 14 of [Case Closed](https://anilist.co/anime/235) (04:11, 28 August 2025)
 -   📺 Watched episode 13 of [Case Closed](https://anilist.co/anime/235) (18:20, 27 August 2025)
 -   📺 Watched episode 11 - 12 of [Case Closed](https://anilist.co/anime/235) (12:57, 27 August 2025)
 -   📺 Watched episode 9 - 10 of [Case Closed](https://anilist.co/anime/235) (04:15, 27 August 2025)
--   📺 Watched episode 7 - 8 of [Case Closed](https://anilist.co/anime/235) (18:24, 26 August 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
