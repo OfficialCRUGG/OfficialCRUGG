@@ -62,11 +62,11 @@ I'm a 19-year-old creative, software engineer and designer, currently living in 
   
 <!-- ANILIST_ACTIVITY:start -->
 
+-   📺 Watched episode 6 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:55, 02 September 2025)
 -   📺 Watched episode 4 - 5 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (05:15, 02 September 2025)
 -   📺 Watched episode 3 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (15:31, 01 September 2025)
 -   📺 Watched episode 1 - 2 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (14:56, 01 September 2025)
 -   📺 Watched episode 30 - 32 of [Case Closed](https://anilist.co/anime/235) (12:35, 01 September 2025)
--   📺 Watched episode 27 - 29 of [Case Closed](https://anilist.co/anime/235) (03:40, 01 September 2025)
 
 <!-- ANILIST_ACTIVITY:end -->
 </details>
