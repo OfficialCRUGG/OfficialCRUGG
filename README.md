@@ -1,90 +1,49 @@
-### Hey! 👋
+<div align="center">
 
-[<img src="https://lanyard-profile-readme.vercel.app/api/228965621478588416" align="right">](https://discord.com/users/228965621478588416)
+## Hey there! :)
 
-#### Who I am
+<img src=".github/assets/profile_picture.png" alt="Profile picture" height="100" width="100" >
 
-I'm a 19-year-old creative, software engineer and designer, currently living in Germany.
+# CRUGG
 
-#### Tech I use
+</div>
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![Astro](https://img.shields.io/badge/astro-%23BC52EE.svg?style=for-the-badge&logo=astro&logoColor=white)
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+I'm a 19-year-old creative, web developer and ui/ux designer from Germany. I am entirely self-taught and am always eager to learn new things.
 
-<details>
-  <summary>Libraries</summary>
-  
-  ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-  ![Tailwind](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-  ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-</details>
+### What I'm currently up to
 
-<details>
-  <summary>Software</summary>
-  
-  ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-  ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
-  ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
-  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-</details>
+- I own and operate [Synchron Community](https://synchron.community), a German community project centered around the German dubbing industry.
+- Under Synchron Community, I am currently working on an unannounced web application project.
+- Every now and then, I write news articles for [aniSearch](https://anisearch.de), a German anime and manga database.
+- For learning purposes, I'm also working on a personal side project which is a typical image board software (booru). It is built with TypeScript, Knex, Nunjucks Templating and SASS. This is my first real full-stack project that fully uses object-oriented programming and more.
+
+### My interests
+
+Honestly, I have a lot of interests. Some of them include anime, video games, user experience design, psychology, writing, music, German dubbing and voice actors, localization and translation, and a lot more.
+
+### My tech stack
+
+For web development, I usually use **SvelteKit** with **TypeScript**. For styling, I usually use **Tailwind**.
+
+I am currently also experimenting with a more „old-school-ish“ stack using **Bun**, **TypeScript**, **Nunjucks**, **SASS** and **Knex**.
+
+For deploying my applications, I usually use **Docker** on **Hetzner Cloud** servers.
 
 <details>
-  <summary>Server / Sysadmin</summary>
-  
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=Hetzner&logoColor=white)
-  ![Caddy](https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=Caddy&logoColor=white)
-  ![Uptime Kuma](https://img.shields.io/badge/Uptime%20Kuma-5CDD8B?style=for-the-badge&logo=UptimeKuma&logoColor=white)
+  <summary>See more</summary>
+  Here's more technologies I use or have used in the past, with varying levels of proficiency:
+  - React, Next.js, Vue.js, Nuxt.js, Astro
+  - Express.js, Fastify, Prisma, discord.js, Zod, Tauri
+  - GraphQL, Redis, Socket.io
+  - Java, Kotlin, PHP
+  - Gitea, Forgejo, MediaWiki, Shimmie2, Uptime Kuma, Caddy, Jellyfin
 </details>
 
----
+### How to get in touch
 
-<details>
-  <summary>✉️ How to get in touch</summary>
-  
-> Sorted by how quickly you can expect a reply (please state your inquiry in the opening message. I get a lot of spam)
-- [Hit me up on Discord](https://discord.com/users/228965621478588416)
-- [Hit me up on Twitter](https://twitter.com/cruggdev)
-- [Send me a mail](mailto:me@crg.sh)
-</details>
+You can best reach me via [email](mailto:me@crg.sh)! :)
 
-
-<details>
-  <summary>🌸 My recent anime & manga activity</summary>
-  
-<!-- ANILIST_ACTIVITY:start -->
-
--   📺 Watched episode 7 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (22:04, 02 September 2025)
--   📺 Watched episode 6 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (16:55, 02 September 2025)
--   📺 Watched episode 4 - 5 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (05:15, 02 September 2025)
--   📺 Watched episode 3 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (15:31, 01 September 2025)
--   📺 Watched episode 1 - 2 of [Oshi no Ko Season 2](https://anilist.co/anime/166531) (14:56, 01 September 2025)
-
-<!-- ANILIST_ACTIVITY:end -->
-</details>
-
-<details>
-  <summary>⏱️ WakaTime Statistics</summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 28 August 2025 - To: 04 September 2025
-
-TypeScript    10 hrs 59 mins  ████████████▓░░░░░░░░░░░░   51.02 %
-Svelte        4 hrs 9 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.32 %
-Nunjucks      1 hr 22 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Other         1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 %
-Sass          1 hr 7 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
-```
-
-<!--END_SECTION:waka-->
-</details>
+<div align="center">
+<img src=".github/assets/bottom_picture.png" alt="Picture">
+<small><i>my profile picture and the other picture in this about me are from the anime “oshi no ko”</i></small>
+</div>
