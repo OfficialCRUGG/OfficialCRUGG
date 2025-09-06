@@ -38,7 +38,7 @@ For deploying my applications, I usually use **Docker** on **Hetzner Cloud** ser
 * Express.js, Fastify, Prisma, discord.js, Zod, Tauri
 * GraphQL, Redis, Socket.io
 * Java, Kotlin, PHP
-* Gitea, Forgejo, MediaWiki, Shimmie2, Uptime Kuma, Caddy, Jellyfin
+* Gitea, Forgejo, MediaWiki, Shimmie2, Uptime Kuma, Caddy, Jellyfin, Shopware
 </details>
 
 ### How to get in touch
