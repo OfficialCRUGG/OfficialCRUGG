@@ -31,12 +31,14 @@ For deploying my applications, I usually use **Docker** on **Hetzner Cloud** ser
 
 <details>
   <summary>See more</summary>
+  
   Here's more technologies I use or have used in the past, with varying levels of proficiency:
-  - React, Next.js, Vue.js, Nuxt.js, Astro
-  - Express.js, Fastify, Prisma, discord.js, Zod, Tauri
-  - GraphQL, Redis, Socket.io
-  - Java, Kotlin, PHP
-  - Gitea, Forgejo, MediaWiki, Shimmie2, Uptime Kuma, Caddy, Jellyfin
+  
+* React, Next.js, Vue.js, Nuxt.js, Astro
+* Express.js, Fastify, Prisma, discord.js, Zod, Tauri
+* GraphQL, Redis, Socket.io
+* Java, Kotlin, PHP
+* Gitea, Forgejo, MediaWiki, Shimmie2, Uptime Kuma, Caddy, Jellyfin
 </details>
 
 ### How to get in touch
